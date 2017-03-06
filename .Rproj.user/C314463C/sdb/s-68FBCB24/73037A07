@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "library(tidyverse)\nlibrary(lubridate)\nlibrary(stringr)\n\n\n# Script para descargar y limpiar datos de SUGEF --------------------------\n\n# Función para leer los archivos txt\nread_files <- function(file, path, colnames, coltypes) {\n  readr::read_tsv(paste(path, file, sep = \"/\"), col_names = colnames,\n    locale = locale(encoding = \"iso-8859-1\", decimal_mark = \".\"), \n    col_types = coltypes, skip = 1)\n}\n\npath <- \"Datos/Cartera por actividad y mora\"\nfiles <- dir(path)\ncolnames <- c(\"sector\", \"actividad\", \"entidad_per\", \"cred_ad\", \"cred_30\",\n              \"cred_60\", \"cred_90\", \"cred_180\", \"cred_mas\", \"cred_cj\",\n              \"cred_tot\")\ncoltypes <- paste(c(rep(\"c\", 3), rep(\"d\", 8), \"-\"), collapse = \"\")\n\ndatos <- lapply(files, read_files, path, colnames, coltypes) %>% bind_rows()\n\ndatos <- datos %>%\n  mutate(\n    sector = str_to_title(sector),\n    actividad = gsub(\"[A-Za-z]-\", \"\", actividad),\n    fecha = dmy(paste0(\"01/\", str_extract(entidad_per, \"\\\\d{2}/\\\\d{4}\"))),\n    entidad = gsub(\"\\\\s\\\\d{2}/\\\\d{4}|\\\\s\\\\-\\\\s.*\", \"\", entidad_per)\n  ) %>% select(-entidad_per)\n\nglimpse(datos)\nsummary(datos)\n",
+    "created" : 1488758909763.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1622586868",
+    "id" : "73037A07",
+    "lastKnownWriteTime" : 1488761472,
+    "last_content_update" : 1488761472252,
+    "path" : "~/Análisis/SUGEF/Scripts/lectura_datos_mora_economica.R",
+    "project_path" : "Scripts/lectura_datos_mora_economica.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
