@@ -1,0 +1,977 @@
+SECTOR	C_TIPO_ACTIVIDAD_ECONOMICA	ENTIDAD_PERIODO	CreditoTotal_AlDia	CreditoTotal_30Dias	CreditoTotal_60Dias	CreditoTotal_90Dias	CreditoTotal_180Dias	CreditoTotal_MasDias	CreditoTotal_CobroJudicial	CreditoTotal_Total	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	A-Agricultura, ganadería, caza y actividades de servicios conexas	COOPEANDE Nº 1 - Cooperativa de Ahorro y Crédito ANDE No. 1, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	B-Pesca y  acuacultura	COOPEANDE Nº 1 - Cooperativa de Ahorro y Crédito ANDE No. 1, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	C-Explotación de  minas y canteras	COOPEANDE Nº 1 - Cooperativa de Ahorro y Crédito ANDE No. 1, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	D-Industria Manufacturera	COOPEANDE Nº 1 - Cooperativa de Ahorro y Crédito ANDE No. 1, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	E-Electricidad, telecomunicaciones,  gas y agua	COOPEANDE Nº 1 - Cooperativa de Ahorro y Crédito ANDE No. 1, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	F-Construcción, compra  y reparación de inmuebles	COOPEANDE Nº 1 - Cooperativa de Ahorro y Crédito ANDE No. 1, R.L. 07/2008	1161969.58	51293.28	15835.50	0.00	0.00	0.00	0.00	1229098.36	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	G-Comercio	COOPEANDE Nº 1 - Cooperativa de Ahorro y Crédito ANDE No. 1, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	H-Hotel  y restaurante	COOPEANDE Nº 1 - Cooperativa de Ahorro y Crédito ANDE No. 1, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	I-Transporte	COOPEANDE Nº 1 - Cooperativa de Ahorro y Crédito ANDE No. 1, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	J-Actividad  financiera y bursátil	COOPEANDE Nº 1 - Cooperativa de Ahorro y Crédito ANDE No. 1, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	K-Actividades inmobiliarias, empresariales y de alquiler	COOPEANDE Nº 1 - Cooperativa de Ahorro y Crédito ANDE No. 1, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	M-Enseñanza  (El deudor ofrece este servicio)	COOPEANDE Nº 1 - Cooperativa de Ahorro y Crédito ANDE No. 1, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	R-Servicios  (El deudor ofrece este servicio)	COOPEANDE Nº 1 - Cooperativa de Ahorro y Crédito ANDE No. 1, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	S-Consumo  (el deudor consume el bien o servicio)	COOPEANDE Nº 1 - Cooperativa de Ahorro y Crédito ANDE No. 1, R.L. 07/2008	74447381.97	1172327.48	459404.26	146243.06	230894.35	362446.49	58954.12	76877651.73	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	X-Otras actividades del sector privado no financiero	COOPEANDE Nº 1 - Cooperativa de Ahorro y Crédito ANDE No. 1, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	Y-Administración pública	COOPEANDE Nº 1 - Cooperativa de Ahorro y Crédito ANDE No. 1, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	Z-Actividades de entidades y órganos  extraterritoriales	COOPEANDE Nº 1 - Cooperativa de Ahorro y Crédito ANDE No. 1, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	A-Agricultura, ganadería, caza y actividades de servicios conexas	SERVICOOP - Servicios Cooperativos, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	B-Pesca y  acuacultura	SERVICOOP - Servicios Cooperativos, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	C-Explotación de  minas y canteras	SERVICOOP - Servicios Cooperativos, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	D-Industria Manufacturera	SERVICOOP - Servicios Cooperativos, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	E-Electricidad, telecomunicaciones,  gas y agua	SERVICOOP - Servicios Cooperativos, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	F-Construcción, compra  y reparación de inmuebles	SERVICOOP - Servicios Cooperativos, R.L. 07/2008	170782.21	14180.54	40775.74	0.00	0.00	0.00	0.00	225738.49	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	G-Comercio	SERVICOOP - Servicios Cooperativos, R.L. 07/2008	565.63	0.00	0.00	0.00	0.00	0.00	0.00	565.63	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	H-Hotel  y restaurante	SERVICOOP - Servicios Cooperativos, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	I-Transporte	SERVICOOP - Servicios Cooperativos, R.L. 07/2008	31.58	4794.90	37.87	3.74	0.00	0.00	0.00	4868.08	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	J-Actividad  financiera y bursátil	SERVICOOP - Servicios Cooperativos, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	K-Actividades inmobiliarias, empresariales y de alquiler	SERVICOOP - Servicios Cooperativos, R.L. 07/2008	7803.15	0.00	0.00	0.00	0.00	0.00	0.00	7803.15	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	M-Enseñanza  (El deudor ofrece este servicio)	SERVICOOP - Servicios Cooperativos, R.L. 07/2008	2209.16	0.00	0.00	0.00	71.75	0.00	0.00	2280.90	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	R-Servicios  (El deudor ofrece este servicio)	SERVICOOP - Servicios Cooperativos, R.L. 07/2008	20091.82	3326.56	161.54	433.30	59.94	1349.87	0.00	25423.03	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	S-Consumo  (el deudor consume el bien o servicio)	SERVICOOP - Servicios Cooperativos, R.L. 07/2008	2274270.77	516198.40	70515.83	28354.34	30712.36	58372.82	0.00	2978424.51	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	X-Otras actividades del sector privado no financiero	SERVICOOP - Servicios Cooperativos, R.L. 07/2008	2378.79	0.00	231.88	0.00	0.00	1865.97	0.00	4476.63	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	Y-Administración pública	SERVICOOP - Servicios Cooperativos, R.L. 07/2008	288.46	0.00	0.00	0.00	0.00	0.00	0.00	288.46	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	Z-Actividades de entidades y órganos  extraterritoriales	SERVICOOP - Servicios Cooperativos, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	A-Agricultura, ganadería, caza y actividades de servicios conexas	3004045055 07/2008	29949.50	20754.81	931.58	0.00	0.00	0.00	0.00	51635.89	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	B-Pesca y  acuacultura	3004045055 07/2008	15510.70	0.00	0.00	0.00	0.00	0.00	0.00	15510.70	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	C-Explotación de  minas y canteras	3004045055 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	D-Industria Manufacturera	3004045055 07/2008	9413.36	1704.11	19185.35	0.00	0.00	0.00	0.00	30302.83	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	E-Electricidad, telecomunicaciones,  gas y agua	3004045055 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	F-Construcción, compra  y reparación de inmuebles	3004045055 07/2008	669652.08	119327.28	65205.47	19623.30	0.00	0.00	4826.24	878634.36	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	G-Comercio	3004045055 07/2008	167516.29	31222.79	14174.18	0.00	0.00	0.00	2910.40	215823.66	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	H-Hotel  y restaurante	3004045055 07/2008	13488.18	832.05	862.22	0.00	0.00	0.00	0.00	15182.45	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	I-Transporte	3004045055 07/2008	39407.45	448.78	0.00	0.00	0.00	0.00	0.00	39856.23	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	J-Actividad  financiera y bursátil	3004045055 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	k-Actividades inmobiliarias, empresariales y de alquiler	3004045055 07/2008	5038.08	0	0.00	0	0.00	0	0.00	5038.08	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	K-Actividades inmobiliarias, empresariales y de alquiler	3004045055 07/2008	0.00	893.89	0.00	0.00	0.00	0.00	0.00	893.89	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	M-Enseñanza  (El deudor ofrece este servicio)	3004045055 07/2008	9528.07	3802.00	0.00	0.00	0.00	0.00	0.00	13330.06	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	R-Servicios  (El deudor ofrece este servicio)	3004045055 07/2008	61720.16	0.00	353.65	0.00	0.00	0.00	0.00	62073.82	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	S-Consumo  (el deudor consume el bien o servicio)	3004045055 07/2008	925940.68	234509.96	129141.48	16972.14	8327.94	0.00	48573.51	1363465.71	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	X-Otras actividades del sector privado no financiero	3004045055 07/2008	14119.81	1894.04	0.00	0.00	0.00	0.00	591.55	16605.40	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	Y-Administración pública	3004045055 07/2008	337519.98	1004.52	2295.95	0.00	0.00	0.00	549.78	341370.23	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	Z-Actividades de entidades y órganos  extraterritoriales	3004045055 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	A-Agricultura, ganadería, caza y actividades de servicios conexas	COOPECAJA - Cooperativa de Ahorro y Crédito de Los Trabajadores del Sector Publico Costarricense y Las Empresas del Sector Salud, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	B-Pesca y  acuacultura	COOPECAJA - Cooperativa de Ahorro y Crédito de Los Trabajadores del Sector Publico Costarricense y Las Empresas del Sector Salud, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	C-Explotación de  minas y canteras	COOPECAJA - Cooperativa de Ahorro y Crédito de Los Trabajadores del Sector Publico Costarricense y Las Empresas del Sector Salud, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	D-Industria Manufacturera	COOPECAJA - Cooperativa de Ahorro y Crédito de Los Trabajadores del Sector Publico Costarricense y Las Empresas del Sector Salud, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	E-Electricidad, telecomunicaciones,  gas y agua	COOPECAJA - Cooperativa de Ahorro y Crédito de Los Trabajadores del Sector Publico Costarricense y Las Empresas del Sector Salud, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	F-Construcción, compra  y reparación de inmuebles	COOPECAJA - Cooperativa de Ahorro y Crédito de Los Trabajadores del Sector Publico Costarricense y Las Empresas del Sector Salud, R.L. 07/2008	415585.40	0.00	0.00	0.00	0.00	0.00	0.00	415585.40	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	G-Comercio	COOPECAJA - Cooperativa de Ahorro y Crédito de Los Trabajadores del Sector Publico Costarricense y Las Empresas del Sector Salud, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	H-Hotel  y restaurante	COOPECAJA - Cooperativa de Ahorro y Crédito de Los Trabajadores del Sector Publico Costarricense y Las Empresas del Sector Salud, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	I-Transporte	COOPECAJA - Cooperativa de Ahorro y Crédito de Los Trabajadores del Sector Publico Costarricense y Las Empresas del Sector Salud, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	J-Actividad  financiera y bursátil	COOPECAJA - Cooperativa de Ahorro y Crédito de Los Trabajadores del Sector Publico Costarricense y Las Empresas del Sector Salud, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	K-Actividades inmobiliarias, empresariales y de alquiler	COOPECAJA - Cooperativa de Ahorro y Crédito de Los Trabajadores del Sector Publico Costarricense y Las Empresas del Sector Salud, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	M-Enseñanza  (El deudor ofrece este servicio)	COOPECAJA - Cooperativa de Ahorro y Crédito de Los Trabajadores del Sector Publico Costarricense y Las Empresas del Sector Salud, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	R-Servicios  (El deudor ofrece este servicio)	COOPECAJA - Cooperativa de Ahorro y Crédito de Los Trabajadores del Sector Publico Costarricense y Las Empresas del Sector Salud, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	S-Consumo  (el deudor consume el bien o servicio)	COOPECAJA - Cooperativa de Ahorro y Crédito de Los Trabajadores del Sector Publico Costarricense y Las Empresas del Sector Salud, R.L. 07/2008	32701928.99	5285.99	3782.67	1631.48	1745.28	971.40	10172.99	32725518.80	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	X-Otras actividades del sector privado no financiero	COOPECAJA - Cooperativa de Ahorro y Crédito de Los Trabajadores del Sector Publico Costarricense y Las Empresas del Sector Salud, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	Y-Administración pública	COOPECAJA - Cooperativa de Ahorro y Crédito de Los Trabajadores del Sector Publico Costarricense y Las Empresas del Sector Salud, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	Z-Actividades de entidades y órganos  extraterritoriales	COOPECAJA - Cooperativa de Ahorro y Crédito de Los Trabajadores del Sector Publico Costarricense y Las Empresas del Sector Salud, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	A-Agricultura, ganadería, caza y actividades de servicios conexas	COOPESERVIDORES - Cooperativa de Ahorro y Crédito de Los Servidores Públicos, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	B-Pesca y  acuacultura	COOPESERVIDORES - Cooperativa de Ahorro y Crédito de Los Servidores Públicos, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	C-Explotación de  minas y canteras	COOPESERVIDORES - Cooperativa de Ahorro y Crédito de Los Servidores Públicos, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	D-Industria Manufacturera	COOPESERVIDORES - Cooperativa de Ahorro y Crédito de Los Servidores Públicos, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	E-Electricidad, telecomunicaciones,  gas y agua	COOPESERVIDORES - Cooperativa de Ahorro y Crédito de Los Servidores Públicos, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	F-Construcción, compra  y reparación de inmuebles	COOPESERVIDORES - Cooperativa de Ahorro y Crédito de Los Servidores Públicos, R.L. 07/2008	25971489.37	705739.93	220821.23	131355.28	34921.46	38031.89	34817.66	27137176.82	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	G-Comercio	COOPESERVIDORES - Cooperativa de Ahorro y Crédito de Los Servidores Públicos, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	H-Hotel  y restaurante	COOPESERVIDORES - Cooperativa de Ahorro y Crédito de Los Servidores Públicos, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	I-Transporte	COOPESERVIDORES - Cooperativa de Ahorro y Crédito de Los Servidores Públicos, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	J-Actividad  financiera y bursátil	COOPESERVIDORES - Cooperativa de Ahorro y Crédito de Los Servidores Públicos, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	K-Actividades inmobiliarias, empresariales y de alquiler	COOPESERVIDORES - Cooperativa de Ahorro y Crédito de Los Servidores Públicos, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	M-Enseñanza  (El deudor ofrece este servicio)	COOPESERVIDORES - Cooperativa de Ahorro y Crédito de Los Servidores Públicos, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	R-Servicios  (El deudor ofrece este servicio)	COOPESERVIDORES - Cooperativa de Ahorro y Crédito de Los Servidores Públicos, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	S-Consumo  (el deudor consume el bien o servicio)	COOPESERVIDORES - Cooperativa de Ahorro y Crédito de Los Servidores Públicos, R.L. 07/2008	89820803.95	3458641.52	1615717.07	1197036.52	893460.98	604362.74	183098.47	97773121.26	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	X-Otras actividades del sector privado no financiero	COOPESERVIDORES - Cooperativa de Ahorro y Crédito de Los Servidores Públicos, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	Y-Administración pública	COOPESERVIDORES - Cooperativa de Ahorro y Crédito de Los Servidores Públicos, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	Z-Actividades de entidades y órganos  extraterritoriales	COOPESERVIDORES - Cooperativa de Ahorro y Crédito de Los Servidores Públicos, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	A-Agricultura, ganadería, caza y actividades de servicios conexas	COOPEALIANZA - Cooperativa de Ahorro y Crédito Alianza de Pérez Zeledón, R.L 07/2008	4144306.48	329702.13	41822.94	31896.39	6462.79	4024.19	7763.41	4565978.34	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	B-Pesca y  acuacultura	COOPEALIANZA - Cooperativa de Ahorro y Crédito Alianza de Pérez Zeledón, R.L 07/2008	189202.12	8264.23	499.95	2807.96	0.00	0.00	1695.71	202469.97	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	C-Explotación de  minas y canteras	COOPEALIANZA - Cooperativa de Ahorro y Crédito Alianza de Pérez Zeledón, R.L 07/2008	2912.88	3170.57	0.00	0.00	0.00	0.00	0.00	6083.45	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	D-Industria Manufacturera	COOPEALIANZA - Cooperativa de Ahorro y Crédito Alianza de Pérez Zeledón, R.L 07/2008	1324381.41	237366.49	43241.01	12229.02	13380.57	1458.64	8422.66	1640479.80	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	E-Electricidad, telecomunicaciones,  gas y agua	COOPEALIANZA - Cooperativa de Ahorro y Crédito Alianza de Pérez Zeledón, R.L 07/2008	453653.81	29313.77	22413.31	184.10	0.00	3357.05	1118.76	510040.81	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	F-Construcción, compra  y reparación de inmuebles	COOPEALIANZA - Cooperativa de Ahorro y Crédito Alianza de Pérez Zeledón, R.L 07/2008	3301102.42	496335.36	127809.57	34384.03	18942.35	4081.11	20064.11	4002718.95	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	G-Comercio	COOPEALIANZA - Cooperativa de Ahorro y Crédito Alianza de Pérez Zeledón, R.L 07/2008	13287906.62	2894163.42	630205.92	122197.08	107643.45	4915.84	87590.71	17134623.03	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	H-Hotel  y restaurante	COOPEALIANZA - Cooperativa de Ahorro y Crédito Alianza de Pérez Zeledón, R.L 07/2008	1093466.17	106554.98	6837.12	2592.39	12631.15	457.86	54177.95	1276717.62	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	I-Transporte	COOPEALIANZA - Cooperativa de Ahorro y Crédito Alianza de Pérez Zeledón, R.L 07/2008	2611758.02	390008.59	55341.95	22544.92	6864.65	1175.41	8956.67	3096650.21	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	J-Actividad  financiera y bursátil	COOPEALIANZA - Cooperativa de Ahorro y Crédito Alianza de Pérez Zeledón, R.L 07/2008	1171239.55	152020.84	9962.04	861.81	0.00	0.00	6507.38	1340591.62	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	K-Actividades inmobiliarias, empresariales y de alquiler	COOPEALIANZA - Cooperativa de Ahorro y Crédito Alianza de Pérez Zeledón, R.L 07/2008	1137158.85	127596.07	5169.30	0.00	0.00	0.00	0.00	1269924.22	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	M-Enseñanza  (El deudor ofrece este servicio)	COOPEALIANZA - Cooperativa de Ahorro y Crédito Alianza de Pérez Zeledón, R.L 07/2008	1469564.69	159344.72	24954.66	1003.63	0.00	0.00	1069.57	1655937.27	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	R-Servicios  (El deudor ofrece este servicio)	COOPEALIANZA - Cooperativa de Ahorro y Crédito Alianza de Pérez Zeledón, R.L 07/2008	6377045.12	823944.20	192927.21	58798.41	52964.45	8944.86	19678.14	7534302.40	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	S-Consumo  (el deudor consume el bien o servicio)	COOPEALIANZA - Cooperativa de Ahorro y Crédito Alianza de Pérez Zeledón, R.L 07/2008	11802556.32	2269905.19	415665.91	143247.95	88937.12	48029.68	251229.48	15019571.65	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	X-Otras actividades del sector privado no financiero	COOPEALIANZA - Cooperativa de Ahorro y Crédito Alianza de Pérez Zeledón, R.L 07/2008	535313.47	65823.27	36893.69	574.30	316.56	616.87	1326.14	640864.30	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	Y-Administración pública	COOPEALIANZA - Cooperativa de Ahorro y Crédito Alianza de Pérez Zeledón, R.L 07/2008	9534827.40	487522.49	71259.34	46075.33	7177.95	1766.01	8777.27	10157405.79	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	Z-Actividades de entidades y órganos  extraterritoriales	COOPEALIANZA - Cooperativa de Ahorro y Crédito Alianza de Pérez Zeledón, R.L 07/2008	427696.25	45555.35	5825.40	5740.22	0.00	0.00	0.00	484817.22	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	A-Agricultura, ganadería, caza y actividades de servicios conexas	COOPEMAPRO - Cooperativa de Ahorro y Crédito de Maestros y Profesores Pensionados Abierta a la Comunidad R L 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	B-Pesca y  acuacultura	COOPEMAPRO - Cooperativa de Ahorro y Crédito de Maestros y Profesores Pensionados Abierta a la Comunidad R L 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	C-Explotación de  minas y canteras	COOPEMAPRO - Cooperativa de Ahorro y Crédito de Maestros y Profesores Pensionados Abierta a la Comunidad R L 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	D-Industria Manufacturera	COOPEMAPRO - Cooperativa de Ahorro y Crédito de Maestros y Profesores Pensionados Abierta a la Comunidad R L 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	E-Electricidad, telecomunicaciones,  gas y agua	COOPEMAPRO - Cooperativa de Ahorro y Crédito de Maestros y Profesores Pensionados Abierta a la Comunidad R L 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	F-Construcción, compra  y reparación de inmuebles	COOPEMAPRO - Cooperativa de Ahorro y Crédito de Maestros y Profesores Pensionados Abierta a la Comunidad R L 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	G-Comercio	COOPEMAPRO - Cooperativa de Ahorro y Crédito de Maestros y Profesores Pensionados Abierta a la Comunidad R L 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	H-Hotel  y restaurante	COOPEMAPRO - Cooperativa de Ahorro y Crédito de Maestros y Profesores Pensionados Abierta a la Comunidad R L 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	I-Transporte	COOPEMAPRO - Cooperativa de Ahorro y Crédito de Maestros y Profesores Pensionados Abierta a la Comunidad R L 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	J-Actividad  financiera y bursátil	COOPEMAPRO - Cooperativa de Ahorro y Crédito de Maestros y Profesores Pensionados Abierta a la Comunidad R L 07/2008	1409136.82	32595.05	10234.71	3227.45	970.55	950.12	0.00	1457114.71	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	K-Actividades inmobiliarias, empresariales y de alquiler	COOPEMAPRO - Cooperativa de Ahorro y Crédito de Maestros y Profesores Pensionados Abierta a la Comunidad R L 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	M-Enseñanza  (El deudor ofrece este servicio)	COOPEMAPRO - Cooperativa de Ahorro y Crédito de Maestros y Profesores Pensionados Abierta a la Comunidad R L 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	R-Servicios  (El deudor ofrece este servicio)	COOPEMAPRO - Cooperativa de Ahorro y Crédito de Maestros y Profesores Pensionados Abierta a la Comunidad R L 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	S-Consumo  (el deudor consume el bien o servicio)	COOPEMAPRO - Cooperativa de Ahorro y Crédito de Maestros y Profesores Pensionados Abierta a la Comunidad R L 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	X-Otras actividades del sector privado no financiero	COOPEMAPRO - Cooperativa de Ahorro y Crédito de Maestros y Profesores Pensionados Abierta a la Comunidad R L 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	Y-Administración pública	COOPEMAPRO - Cooperativa de Ahorro y Crédito de Maestros y Profesores Pensionados Abierta a la Comunidad R L 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	Z-Actividades de entidades y órganos  extraterritoriales	COOPEMAPRO - Cooperativa de Ahorro y Crédito de Maestros y Profesores Pensionados Abierta a la Comunidad R L 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	A-Agricultura, ganadería, caza y actividades de servicios conexas	COOPENAE - Cooperativa Nacional de Educadores, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	B-Pesca y  acuacultura	COOPENAE - Cooperativa Nacional de Educadores, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	C-Explotación de  minas y canteras	COOPENAE - Cooperativa Nacional de Educadores, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	D-Industria Manufacturera	COOPENAE - Cooperativa Nacional de Educadores, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	E-Electricidad, telecomunicaciones,  gas y agua	COOPENAE - Cooperativa Nacional de Educadores, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	F-Construcción, compra  y reparación de inmuebles	COOPENAE - Cooperativa Nacional de Educadores, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	G-Comercio	COOPENAE - Cooperativa Nacional de Educadores, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	H-Hotel  y restaurante	COOPENAE - Cooperativa Nacional de Educadores, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	I-Transporte	COOPENAE - Cooperativa Nacional de Educadores, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	J-Actividad  financiera y bursátil	COOPENAE - Cooperativa Nacional de Educadores, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	K-Actividades inmobiliarias, empresariales y de alquiler	COOPENAE - Cooperativa Nacional de Educadores, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	M-Enseñanza  (El deudor ofrece este servicio)	COOPENAE - Cooperativa Nacional de Educadores, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	R-Servicios  (El deudor ofrece este servicio)	COOPENAE - Cooperativa Nacional de Educadores, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	S-Consumo  (el deudor consume el bien o servicio)	COOPENAE - Cooperativa Nacional de Educadores, R.L. 07/2008	165278707.05	118527.20	71056.18	25365.99	47748.15	120443.22	0.00	165661847.79	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	X-Otras actividades del sector privado no financiero	COOPENAE - Cooperativa Nacional de Educadores, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	Y-Administración pública	COOPENAE - Cooperativa Nacional de Educadores, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	Z-Actividades de entidades y órganos  extraterritoriales	COOPENAE - Cooperativa Nacional de Educadores, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	A-Agricultura, ganadería, caza y actividades de servicios conexas	3004045226 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	B-Pesca y  acuacultura	3004045226 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	C-Explotación de  minas y canteras	3004045226 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	D-Industria Manufacturera	3004045226 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	E-Electricidad, telecomunicaciones,  gas y agua	3004045226 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	F-Construcción, compra  y reparación de inmuebles	3004045226 07/2008	205979.40	88793.70	31796.95	0.00	0.00	0.00	0.00	326570.04	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	G-Comercio	3004045226 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	H-Hotel  y restaurante	3004045226 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	I-Transporte	3004045226 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	J-Actividad  financiera y bursátil	3004045226 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	K-Actividades inmobiliarias, empresariales y de alquiler	3004045226 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	M-Enseñanza  (El deudor ofrece este servicio)	3004045226 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	R-Servicios  (El deudor ofrece este servicio)	3004045226 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	S-Consumo  (el deudor consume el bien o servicio)	3004045226 07/2008	853733.45	367247.42	59017.26	7977.24	2240.41	0.00	13385.04	1303600.82	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	X-Otras actividades del sector privado no financiero	3004045226 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	Y-Administración pública	3004045226 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	Z-Actividades de entidades y órganos  extraterritoriales	3004045226 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	A-Agricultura, ganadería, caza y actividades de servicios conexas	COOPEGRECIA - Cooperativa de Ahorro y Crédito de La Comunidad de Grecia, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	B-Pesca y  acuacultura	COOPEGRECIA - Cooperativa de Ahorro y Crédito de La Comunidad de Grecia, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	C-Explotación de  minas y canteras	COOPEGRECIA - Cooperativa de Ahorro y Crédito de La Comunidad de Grecia, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	D-Industria Manufacturera	COOPEGRECIA - Cooperativa de Ahorro y Crédito de La Comunidad de Grecia, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	E-Electricidad, telecomunicaciones,  gas y agua	COOPEGRECIA - Cooperativa de Ahorro y Crédito de La Comunidad de Grecia, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	F-Construcción, compra  y reparación de inmuebles	COOPEGRECIA - Cooperativa de Ahorro y Crédito de La Comunidad de Grecia, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	G-Comercio	COOPEGRECIA - Cooperativa de Ahorro y Crédito de La Comunidad de Grecia, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	H-Hotel  y restaurante	COOPEGRECIA - Cooperativa de Ahorro y Crédito de La Comunidad de Grecia, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	I-Transporte	COOPEGRECIA - Cooperativa de Ahorro y Crédito de La Comunidad de Grecia, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	J-Actividad  financiera y bursátil	COOPEGRECIA - Cooperativa de Ahorro y Crédito de La Comunidad de Grecia, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	K-Actividades inmobiliarias, empresariales y de alquiler	COOPEGRECIA - Cooperativa de Ahorro y Crédito de La Comunidad de Grecia, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	M-Enseñanza  (El deudor ofrece este servicio)	COOPEGRECIA - Cooperativa de Ahorro y Crédito de La Comunidad de Grecia, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	R-Servicios  (El deudor ofrece este servicio)	COOPEGRECIA - Cooperativa de Ahorro y Crédito de La Comunidad de Grecia, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	S-Consumo  (el deudor consume el bien o servicio)	COOPEGRECIA - Cooperativa de Ahorro y Crédito de La Comunidad de Grecia, R.L. 07/2008	4197994.68	1315011.17	125694.99	26435.36	2197.56	7476.36	1628.39	5676438.51	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	X-Otras actividades del sector privado no financiero	COOPEGRECIA - Cooperativa de Ahorro y Crédito de La Comunidad de Grecia, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	Y-Administración pública	COOPEGRECIA - Cooperativa de Ahorro y Crédito de La Comunidad de Grecia, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	Z-Actividades de entidades y órganos  extraterritoriales	COOPEGRECIA - Cooperativa de Ahorro y Crédito de La Comunidad de Grecia, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	A-Agricultura, ganadería, caza y actividades de servicios conexas	COOCIQUE - Cooperativa de Ahorro y Crédito de La Comunidad de Ciudad Quesada, R.L. 07/2008	7165154.92	0.00	31786.58	1022.99	715.48	3871.74	15283.91	7217835.62	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	B-Pesca y  acuacultura	COOCIQUE - Cooperativa de Ahorro y Crédito de La Comunidad de Ciudad Quesada, R.L. 07/2008	68562.30	0.00	0.00	0.00	0.00	0.00	0.00	68562.30	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	C-Explotación de  minas y canteras	COOCIQUE - Cooperativa de Ahorro y Crédito de La Comunidad de Ciudad Quesada, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	D-Industria Manufacturera	COOCIQUE - Cooperativa de Ahorro y Crédito de La Comunidad de Ciudad Quesada, R.L. 07/2008	377099.37	0.00	3148.50	622.32	304.69	647.41	0.00	381822.27	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	E-Electricidad, telecomunicaciones,  gas y agua	COOCIQUE - Cooperativa de Ahorro y Crédito de La Comunidad de Ciudad Quesada, R.L. 07/2008	3887.31	0.00	0.00	0.00	0.00	0.00	0.00	3887.31	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	F-Construcción, compra  y reparación de inmuebles	COOCIQUE - Cooperativa de Ahorro y Crédito de La Comunidad de Ciudad Quesada, R.L. 07/2008	4188625.17	0.00	27786.20	1428.26	2141.22	27057.23	3721.98	4250760.06	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	G-Comercio	COOCIQUE - Cooperativa de Ahorro y Crédito de La Comunidad de Ciudad Quesada, R.L. 07/2008	8416206.58	0.00	188598.34	3818.40	2413.37	3166.82	626.51	8614830.02	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	H-Hotel  y restaurante	COOCIQUE - Cooperativa de Ahorro y Crédito de La Comunidad de Ciudad Quesada, R.L. 07/2008	40645.95	0.00	1918.60	0.00	0.00	0.00	0.00	42564.55	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	I-Transporte	COOCIQUE - Cooperativa de Ahorro y Crédito de La Comunidad de Ciudad Quesada, R.L. 07/2008	802628.64	0.00	64065.45	0.00	0.00	0.00	1066.32	867760.41	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	J-Actividad  financiera y bursátil	COOCIQUE - Cooperativa de Ahorro y Crédito de La Comunidad de Ciudad Quesada, R.L. 07/2008	33018.33	0.00	0.00	0.00	0.00	0.00	0.00	33018.33	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	K-Actividades inmobiliarias, empresariales y de alquiler	COOCIQUE - Cooperativa de Ahorro y Crédito de La Comunidad de Ciudad Quesada, R.L. 07/2008	489346.36	0.00	5131.24	0.00	0.00	0.00	0.00	494477.60	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	M-Enseñanza  (El deudor ofrece este servicio)	COOCIQUE - Cooperativa de Ahorro y Crédito de La Comunidad de Ciudad Quesada, R.L. 07/2008	19700.97	0.00	0.00	0.00	0.00	0.00	0.00	19700.97	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	R-Servicios  (El deudor ofrece este servicio)	COOCIQUE - Cooperativa de Ahorro y Crédito de La Comunidad de Ciudad Quesada, R.L. 07/2008	1105422.11	0.00	21833.69	954.57	106.27	325.79	0.00	1128642.44	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	S-Consumo  (el deudor consume el bien o servicio)	COOCIQUE - Cooperativa de Ahorro y Crédito de La Comunidad de Ciudad Quesada, R.L. 07/2008	14326449.18	0.00	276612.58	55620.44	53092.76	101917.32	98272.71	14911965.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	X-Otras actividades del sector privado no financiero	COOCIQUE - Cooperativa de Ahorro y Crédito de La Comunidad de Ciudad Quesada, R.L. 07/2008	432664.10	0.00	6332.83	0.00	0.00	828.16	0.00	439825.08	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	Y-Administración pública	COOCIQUE - Cooperativa de Ahorro y Crédito de La Comunidad de Ciudad Quesada, R.L. 07/2008	438167.15	0.00	0.00	0.00	0.00	119.95	0.00	438287.10	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	Z-Actividades de entidades y órganos  extraterritoriales	COOCIQUE - Cooperativa de Ahorro y Crédito de La Comunidad de Ciudad Quesada, R.L. 07/2008	1469558.89	0.00	51868.89	952.46	492.86	342.30	0.00	1523215.40	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	A-Agricultura, ganadería, caza y actividades de servicios conexas	3004045301 07/2008	70144.62	0.00	392.16	7502.37	0.00	0.00	0.00	78039.15	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	B-Pesca y  acuacultura	3004045301 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	C-Explotación de  minas y canteras	3004045301 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	D-Industria Manufacturera	3004045301 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	E-Electricidad, telecomunicaciones,  gas y agua	3004045301 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	F-Construcción, compra  y reparación de inmuebles	3004045301 07/2008	855942.08	0.00	17599.38	24479.11	20733.72	0.00	487.15	919241.44	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	G-Comercio	3004045301 07/2008	371322.56	0.00	7260.76	5086.19	655.20	0.00	443.34	384768.05	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	H-Hotel  y restaurante	3004045301 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	I-Transporte	3004045301 07/2008	33752.34	0.00	7035.10	0.00	0.00	0.00	0.00	40787.45	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	J-Actividad  financiera y bursátil	3004045301 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	K-Actividades inmobiliarias, empresariales y de alquiler	3004045301 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	M-Enseñanza  (El deudor ofrece este servicio)	3004045301 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	R-Servicios  (El deudor ofrece este servicio)	3004045301 07/2008	30605.52	0.00	3659.99	1178.99	1053.11	0.00	699.37	37196.98	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	S-Consumo  (el deudor consume el bien o servicio)	3004045301 07/2008	834905.84	0.00	45030.72	11591.18	10254.95	0.00	10746.80	912529.50	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	X-Otras actividades del sector privado no financiero	3004045301 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	Y-Administración pública	3004045301 07/2008	463.50	0.00	0.00	0.00	0.00	0.00	0.00	463.50	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	Z-Actividades de entidades y órganos  extraterritoriales	3004045301 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	A-Agricultura, ganadería, caza y actividades de servicios conexas	COOPEAMISTAD - Cooperativa de Ahorro y Crédito La Amistad, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	B-Pesca y  acuacultura	COOPEAMISTAD - Cooperativa de Ahorro y Crédito La Amistad, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	C-Explotación de  minas y canteras	COOPEAMISTAD - Cooperativa de Ahorro y Crédito La Amistad, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	D-Industria Manufacturera	COOPEAMISTAD - Cooperativa de Ahorro y Crédito La Amistad, R.L. 07/2008	146760.54	12044.12	0.00	0.00	0.00	0.00	0.00	158804.66	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	E-Electricidad, telecomunicaciones,  gas y agua	COOPEAMISTAD - Cooperativa de Ahorro y Crédito La Amistad, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	F-Construcción, compra  y reparación de inmuebles	COOPEAMISTAD - Cooperativa de Ahorro y Crédito La Amistad, R.L. 07/2008	55388.89	1949.98	0.00	0.00	257.88	0.00	7701.67	65298.42	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	G-Comercio	COOPEAMISTAD - Cooperativa de Ahorro y Crédito La Amistad, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	H-Hotel  y restaurante	COOPEAMISTAD - Cooperativa de Ahorro y Crédito La Amistad, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	I-Transporte	COOPEAMISTAD - Cooperativa de Ahorro y Crédito La Amistad, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	J-Actividad  financiera y bursátil	COOPEAMISTAD - Cooperativa de Ahorro y Crédito La Amistad, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	K-Actividades inmobiliarias, empresariales y de alquiler	COOPEAMISTAD - Cooperativa de Ahorro y Crédito La Amistad, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	M-Enseñanza  (El deudor ofrece este servicio)	COOPEAMISTAD - Cooperativa de Ahorro y Crédito La Amistad, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	R-Servicios  (El deudor ofrece este servicio)	COOPEAMISTAD - Cooperativa de Ahorro y Crédito La Amistad, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	S-Consumo  (el deudor consume el bien o servicio)	COOPEAMISTAD - Cooperativa de Ahorro y Crédito La Amistad, R.L. 07/2008	4562718.41	220920.72	34069.37	6272.54	2641.75	9287.64	28407.77	4864318.19	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	X-Otras actividades del sector privado no financiero	COOPEAMISTAD - Cooperativa de Ahorro y Crédito La Amistad, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	Y-Administración pública	COOPEAMISTAD - Cooperativa de Ahorro y Crédito La Amistad, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	Z-Actividades de entidades y órganos  extraterritoriales	COOPEAMISTAD - Cooperativa de Ahorro y Crédito La Amistad, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	A-Agricultura, ganadería, caza y actividades de servicios conexas	COOPESPARTA - Cooperativa de Ahorro y Crédito Refaccionario de La Comunidad de Esparza, R.L. 07/2008	14121.24	0.00	0.00	0.00	0.00	0.00	0.00	14121.24	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	B-Pesca y  acuacultura	COOPESPARTA - Cooperativa de Ahorro y Crédito Refaccionario de La Comunidad de Esparza, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	C-Explotación de  minas y canteras	COOPESPARTA - Cooperativa de Ahorro y Crédito Refaccionario de La Comunidad de Esparza, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	D-Industria Manufacturera	COOPESPARTA - Cooperativa de Ahorro y Crédito Refaccionario de La Comunidad de Esparza, R.L. 07/2008	9711.45	203.73	0.00	0.00	0.00	0.00	0.00	9915.18	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	E-Electricidad, telecomunicaciones,  gas y agua	COOPESPARTA - Cooperativa de Ahorro y Crédito Refaccionario de La Comunidad de Esparza, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	F-Construcción, compra  y reparación de inmuebles	COOPESPARTA - Cooperativa de Ahorro y Crédito Refaccionario de La Comunidad de Esparza, R.L. 07/2008	320230.41	652.19	20.50	0.00	0.00	19.37	153.28	321075.75	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	G-Comercio	COOPESPARTA - Cooperativa de Ahorro y Crédito Refaccionario de La Comunidad de Esparza, R.L. 07/2008	113050.01	558.18	59.12	0.00	0.00	4.64	44.49	113716.45	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	H-Hotel  y restaurante	COOPESPARTA - Cooperativa de Ahorro y Crédito Refaccionario de La Comunidad de Esparza, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	I-Transporte	COOPESPARTA - Cooperativa de Ahorro y Crédito Refaccionario de La Comunidad de Esparza, R.L. 07/2008	18161.15	0.00	59.65	0.00	0.00	0.00	0.00	18220.80	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	J-Actividad  financiera y bursátil	COOPESPARTA - Cooperativa de Ahorro y Crédito Refaccionario de La Comunidad de Esparza, R.L. 07/2008	98292.82	1194.41	129.01	26.89	0.78	0.00	0.00	99643.91	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	K-Actividades inmobiliarias, empresariales y de alquiler	COOPESPARTA - Cooperativa de Ahorro y Crédito Refaccionario de La Comunidad de Esparza, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	M-Enseñanza  (El deudor ofrece este servicio)	COOPESPARTA - Cooperativa de Ahorro y Crédito Refaccionario de La Comunidad de Esparza, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	R-Servicios  (El deudor ofrece este servicio)	COOPESPARTA - Cooperativa de Ahorro y Crédito Refaccionario de La Comunidad de Esparza, R.L. 07/2008	35867.03	162.22	0.00	0.00	0.00	0.00	0.00	36029.24	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	S-Consumo  (el deudor consume el bien o servicio)	COOPESPARTA - Cooperativa de Ahorro y Crédito Refaccionario de La Comunidad de Esparza, R.L. 07/2008	1131886.11	5097.95	483.69	62.63	0.00	165.64	920.82	1138616.84	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	X-Otras actividades del sector privado no financiero	COOPESPARTA - Cooperativa de Ahorro y Crédito Refaccionario de La Comunidad de Esparza, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	Y-Administración pública	COOPESPARTA - Cooperativa de Ahorro y Crédito Refaccionario de La Comunidad de Esparza, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	Z-Actividades de entidades y órganos  extraterritoriales	COOPESPARTA - Cooperativa de Ahorro y Crédito Refaccionario de La Comunidad de Esparza, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	A-Agricultura, ganadería, caza y actividades de servicios conexas	COOPECO - Cooperativa de Ahorro y Crédito de Los Empleados de La Contraloría General de La República, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	B-Pesca y  acuacultura	COOPECO - Cooperativa de Ahorro y Crédito de Los Empleados de La Contraloría General de La República, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	C-Explotación de  minas y canteras	COOPECO - Cooperativa de Ahorro y Crédito de Los Empleados de La Contraloría General de La República, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	D-Industria Manufacturera	COOPECO - Cooperativa de Ahorro y Crédito de Los Empleados de La Contraloría General de La República, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	E-Electricidad, telecomunicaciones,  gas y agua	COOPECO - Cooperativa de Ahorro y Crédito de Los Empleados de La Contraloría General de La República, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	F-Construcción, compra  y reparación de inmuebles	COOPECO - Cooperativa de Ahorro y Crédito de Los Empleados de La Contraloría General de La República, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	G-Comercio	COOPECO - Cooperativa de Ahorro y Crédito de Los Empleados de La Contraloría General de La República, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	H-Hotel  y restaurante	COOPECO - Cooperativa de Ahorro y Crédito de Los Empleados de La Contraloría General de La República, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	I-Transporte	COOPECO - Cooperativa de Ahorro y Crédito de Los Empleados de La Contraloría General de La República, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	J-Actividad  financiera y bursátil	COOPECO - Cooperativa de Ahorro y Crédito de Los Empleados de La Contraloría General de La República, R.L. 07/2008	5252105.75	80410.76	24448.37	3878.06	1041.07	3409.59	0.00	5365293.62	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	K-Actividades inmobiliarias, empresariales y de alquiler	COOPECO - Cooperativa de Ahorro y Crédito de Los Empleados de La Contraloría General de La República, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	M-Enseñanza  (El deudor ofrece este servicio)	COOPECO - Cooperativa de Ahorro y Crédito de Los Empleados de La Contraloría General de La República, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	R-Servicios  (El deudor ofrece este servicio)	COOPECO - Cooperativa de Ahorro y Crédito de Los Empleados de La Contraloría General de La República, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	S-Consumo  (el deudor consume el bien o servicio)	COOPECO - Cooperativa de Ahorro y Crédito de Los Empleados de La Contraloría General de La República, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	X-Otras actividades del sector privado no financiero	COOPECO - Cooperativa de Ahorro y Crédito de Los Empleados de La Contraloría General de La República, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	Y-Administración pública	COOPECO - Cooperativa de Ahorro y Crédito de Los Empleados de La Contraloría General de La República, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	Z-Actividades de entidades y órganos  extraterritoriales	COOPECO - Cooperativa de Ahorro y Crédito de Los Empleados de La Contraloría General de La República, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	A-Agricultura, ganadería, caza y actividades de servicios conexas	3004045492 07/2008	4407.72	0.00	566.86	1651.01	25.17	59.72	0.00	6710.48	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	B-Pesca y  acuacultura	3004045492 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	C-Explotación de  minas y canteras	3004045492 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	D-Industria Manufacturera	3004045492 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	E-Electricidad, telecomunicaciones,  gas y agua	3004045492 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	F-Construcción, compra  y reparación de inmuebles	3004045492 07/2008	6516965.15	0.00	147467.78	10354.17	30358.90	20747.80	183076.74	6908970.53	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	G-Comercio	3004045492 07/2008	609873.59	0.00	0.00	0.00	0.00	0.00	0.00	609873.59	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	H-Hotel  y restaurante	3004045492 07/2008	129414.43	0.00	0.00	0.00	0.00	0.00	0.00	129414.43	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	I-Transporte	3004045492 07/2008	1133634.20	0.00	34643.16	17864.99	5624.15	0.00	0.00	1191766.50	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	J-Actividad  financiera y bursátil	3004045492 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	K-Actividades inmobiliarias, empresariales y de alquiler	3004045492 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	M-Enseñanza  (El deudor ofrece este servicio)	3004045492 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	R-Servicios  (El deudor ofrece este servicio)	3004045492 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	S-Consumo  (el deudor consume el bien o servicio)	3004045492 07/2008	65784200.88	0.00	1875044.22	793343.01	678829.05	520809.06	693066.75	70345292.96	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	X-Otras actividades del sector privado no financiero	3004045492 07/2008	3622800.03	0.00	174259.55	62256.54	95839.33	59326.09	216454.91	4230936.45	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	Y-Administración pública	3004045492 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	Z-Actividades de entidades y órganos  extraterritoriales	3004045492 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	A-Agricultura, ganadería, caza y actividades de servicios conexas	COOPEJUDICIAL - Cooperativa de Ahorro y Crédito de Servidores Judiciales, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	B-Pesca y  acuacultura	COOPEJUDICIAL - Cooperativa de Ahorro y Crédito de Servidores Judiciales, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	C-Explotación de  minas y canteras	COOPEJUDICIAL - Cooperativa de Ahorro y Crédito de Servidores Judiciales, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	D-Industria Manufacturera	COOPEJUDICIAL - Cooperativa de Ahorro y Crédito de Servidores Judiciales, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	E-Electricidad, telecomunicaciones,  gas y agua	COOPEJUDICIAL - Cooperativa de Ahorro y Crédito de Servidores Judiciales, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	F-Construcción, compra  y reparación de inmuebles	COOPEJUDICIAL - Cooperativa de Ahorro y Crédito de Servidores Judiciales, R.L. 07/2008	113508.62	4112.43	0.00	0.00	0.00	0.00	0.00	117621.05	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	G-Comercio	COOPEJUDICIAL - Cooperativa de Ahorro y Crédito de Servidores Judiciales, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	H-Hotel  y restaurante	COOPEJUDICIAL - Cooperativa de Ahorro y Crédito de Servidores Judiciales, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	I-Transporte	COOPEJUDICIAL - Cooperativa de Ahorro y Crédito de Servidores Judiciales, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	J-Actividad  financiera y bursátil	COOPEJUDICIAL - Cooperativa de Ahorro y Crédito de Servidores Judiciales, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	K-Actividades inmobiliarias, empresariales y de alquiler	COOPEJUDICIAL - Cooperativa de Ahorro y Crédito de Servidores Judiciales, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	M-Enseñanza  (El deudor ofrece este servicio)	COOPEJUDICIAL - Cooperativa de Ahorro y Crédito de Servidores Judiciales, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	R-Servicios  (El deudor ofrece este servicio)	COOPEJUDICIAL - Cooperativa de Ahorro y Crédito de Servidores Judiciales, R.L. 07/2008	19561.37	0.00	0.00	0.00	0.00	0.00	0.00	19561.37	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	S-Consumo  (el deudor consume el bien o servicio)	COOPEJUDICIAL - Cooperativa de Ahorro y Crédito de Servidores Judiciales, R.L. 07/2008	9849301.90	364598.38	31042.47	4206.50	784.20	0.00	0.00	10249933.45	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	X-Otras actividades del sector privado no financiero	COOPEJUDICIAL - Cooperativa de Ahorro y Crédito de Servidores Judiciales, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	Y-Administración pública	COOPEJUDICIAL - Cooperativa de Ahorro y Crédito de Servidores Judiciales, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	Z-Actividades de entidades y órganos  extraterritoriales	COOPEJUDICIAL - Cooperativa de Ahorro y Crédito de Servidores Judiciales, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	A-Agricultura, ganadería, caza y actividades de servicios conexas	COOPESANRAMON - Cooperativa de Ahorro y Crédito Refaccionario de La Comunidad de San Ramón, R.L. 07/2008	53335.80	10329.88	651.79	0.00	0.00	0.00	0.00	64317.47	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	B-Pesca y  acuacultura	COOPESANRAMON - Cooperativa de Ahorro y Crédito Refaccionario de La Comunidad de San Ramón, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	C-Explotación de  minas y canteras	COOPESANRAMON - Cooperativa de Ahorro y Crédito Refaccionario de La Comunidad de San Ramón, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	D-Industria Manufacturera	COOPESANRAMON - Cooperativa de Ahorro y Crédito Refaccionario de La Comunidad de San Ramón, R.L. 07/2008	0.00	2969.51	0.00	0.00	0.00	0.00	0.00	2969.51	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	E-Electricidad, telecomunicaciones,  gas y agua	COOPESANRAMON - Cooperativa de Ahorro y Crédito Refaccionario de La Comunidad de San Ramón, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	F-Construcción, compra  y reparación de inmuebles	COOPESANRAMON - Cooperativa de Ahorro y Crédito Refaccionario de La Comunidad de San Ramón, R.L. 07/2008	87996.57	119265.85	4208.58	0.00	0.00	0.00	0.00	211471.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	G-Comercio	COOPESANRAMON - Cooperativa de Ahorro y Crédito Refaccionario de La Comunidad de San Ramón, R.L. 07/2008	958.37	0.00	0.00	0.00	0.00	0.00	0.00	958.37	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	H-Hotel  y restaurante	COOPESANRAMON - Cooperativa de Ahorro y Crédito Refaccionario de La Comunidad de San Ramón, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	I-Transporte	COOPESANRAMON - Cooperativa de Ahorro y Crédito Refaccionario de La Comunidad de San Ramón, R.L. 07/2008	0.00	177.74	0.00	0.00	0.00	0.00	0.00	177.74	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	J-Actividad  financiera y bursátil	COOPESANRAMON - Cooperativa de Ahorro y Crédito Refaccionario de La Comunidad de San Ramón, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	k-Actividades inmobiliarias, empresariales y de alquiler	COOPESANRAMON - Cooperativa de Ahorro y Crédito Refaccionario de La Comunidad de San Ramón, R.L. 07/2008	1803538.73	495548.82	55329.00	23399.23	0.00	0.00	735.82	2378551.60	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	K-Actividades inmobiliarias, empresariales y de alquiler	COOPESANRAMON - Cooperativa de Ahorro y Crédito Refaccionario de La Comunidad de San Ramón, R.L. 07/2008	31104.79	38358.28	27472.96	5210.58	0.00	0.00	17586.25	119732.87	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	M-Enseñanza  (El deudor ofrece este servicio)	COOPESANRAMON - Cooperativa de Ahorro y Crédito Refaccionario de La Comunidad de San Ramón, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	R-Servicios  (El deudor ofrece este servicio)	COOPESANRAMON - Cooperativa de Ahorro y Crédito Refaccionario de La Comunidad de San Ramón, R.L. 07/2008	914.31	0.00	849.64	0.00	0.00	0.00	0.00	1763.95	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	S-Consumo  (el deudor consume el bien o servicio)	COOPESANRAMON - Cooperativa de Ahorro y Crédito Refaccionario de La Comunidad de San Ramón, R.L. 07/2008	166541.64	77619.15	22715.92	51586.90	3257.33	1.14	13433.98	335156.07	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	X-Otras actividades del sector privado no financiero	COOPESANRAMON - Cooperativa de Ahorro y Crédito Refaccionario de La Comunidad de San Ramón, R.L. 07/2008	90320.97	28876.98	9484.97	1400.20	0.00	0.00	1937.82	132020.94	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	Y-Administración pública	COOPESANRAMON - Cooperativa de Ahorro y Crédito Refaccionario de La Comunidad de San Ramón, R.L. 07/2008	16088.46	16523.64	12022.19	0.00	0.00	0.00	1177.01	45811.29	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	Z-Actividades de entidades y órganos  extraterritoriales	COOPESANRAMON - Cooperativa de Ahorro y Crédito Refaccionario de La Comunidad de San Ramón, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	A-Agricultura, ganadería, caza y actividades de servicios conexas	COOPECAR - Cooperativa de Ahorro y Crédito Refaccionario de Alfaro Ruiz, R.L. 07/2008	54365.35	1269.44	0.00	0.00	0.00	0.00	602.70	56237.49	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	B-Pesca y  acuacultura	COOPECAR - Cooperativa de Ahorro y Crédito Refaccionario de Alfaro Ruiz, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	C-Explotación de  minas y canteras	COOPECAR - Cooperativa de Ahorro y Crédito Refaccionario de Alfaro Ruiz, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	D-Industria Manufacturera	COOPECAR - Cooperativa de Ahorro y Crédito Refaccionario de Alfaro Ruiz, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	E-Electricidad, telecomunicaciones,  gas y agua	COOPECAR - Cooperativa de Ahorro y Crédito Refaccionario de Alfaro Ruiz, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	F-Construcción, compra  y reparación de inmuebles	COOPECAR - Cooperativa de Ahorro y Crédito Refaccionario de Alfaro Ruiz, R.L. 07/2008	295316.27	19748.33	0.00	0.00	0.00	0.00	650.78	315715.38	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	G-Comercio	COOPECAR - Cooperativa de Ahorro y Crédito Refaccionario de Alfaro Ruiz, R.L. 07/2008	88761.73	9294.43	0.00	0.00	0.00	0.00	0.00	98056.16	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	H-Hotel  y restaurante	COOPECAR - Cooperativa de Ahorro y Crédito Refaccionario de Alfaro Ruiz, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	I-Transporte	COOPECAR - Cooperativa de Ahorro y Crédito Refaccionario de Alfaro Ruiz, R.L. 07/2008	91849.57	1885.35	0.00	0.00	0.00	0.00	0.00	93734.92	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	J-Actividad  financiera y bursátil	COOPECAR - Cooperativa de Ahorro y Crédito Refaccionario de Alfaro Ruiz, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	K-Actividades inmobiliarias, empresariales y de alquiler	COOPECAR - Cooperativa de Ahorro y Crédito Refaccionario de Alfaro Ruiz, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	M-Enseñanza  (El deudor ofrece este servicio)	COOPECAR - Cooperativa de Ahorro y Crédito Refaccionario de Alfaro Ruiz, R.L. 07/2008	203.84	0.00	0.00	0.00	0.00	0.00	0.00	203.84	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	R-Servicios  (El deudor ofrece este servicio)	COOPECAR - Cooperativa de Ahorro y Crédito Refaccionario de Alfaro Ruiz, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	S-Consumo  (el deudor consume el bien o servicio)	COOPECAR - Cooperativa de Ahorro y Crédito Refaccionario de Alfaro Ruiz, R.L. 07/2008	2144836.75	117728.19	286.13	0.00	0.00	0.00	856.41	2263707.47	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	X-Otras actividades del sector privado no financiero	COOPECAR - Cooperativa de Ahorro y Crédito Refaccionario de Alfaro Ruiz, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	Y-Administración pública	COOPECAR - Cooperativa de Ahorro y Crédito Refaccionario de Alfaro Ruiz, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	Z-Actividades de entidades y órganos  extraterritoriales	COOPECAR - Cooperativa de Ahorro y Crédito Refaccionario de Alfaro Ruiz, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	A-Agricultura, ganadería, caza y actividades de servicios conexas	COOPEBANPO - Cooperativa de Ahorro y Crédito de Los Empleados del Banco Popular y de Desarrollo Comunal, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	B-Pesca y  acuacultura	COOPEBANPO - Cooperativa de Ahorro y Crédito de Los Empleados del Banco Popular y de Desarrollo Comunal, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	C-Explotación de  minas y canteras	COOPEBANPO - Cooperativa de Ahorro y Crédito de Los Empleados del Banco Popular y de Desarrollo Comunal, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	D-Industria Manufacturera	COOPEBANPO - Cooperativa de Ahorro y Crédito de Los Empleados del Banco Popular y de Desarrollo Comunal, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	E-Electricidad, telecomunicaciones,  gas y agua	COOPEBANPO - Cooperativa de Ahorro y Crédito de Los Empleados del Banco Popular y de Desarrollo Comunal, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	F-Construcción, compra  y reparación de inmuebles	COOPEBANPO - Cooperativa de Ahorro y Crédito de Los Empleados del Banco Popular y de Desarrollo Comunal, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	G-Comercio	COOPEBANPO - Cooperativa de Ahorro y Crédito de Los Empleados del Banco Popular y de Desarrollo Comunal, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	H-Hotel  y restaurante	COOPEBANPO - Cooperativa de Ahorro y Crédito de Los Empleados del Banco Popular y de Desarrollo Comunal, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	I-Transporte	COOPEBANPO - Cooperativa de Ahorro y Crédito de Los Empleados del Banco Popular y de Desarrollo Comunal, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	J-Actividad  financiera y bursátil	COOPEBANPO - Cooperativa de Ahorro y Crédito de Los Empleados del Banco Popular y de Desarrollo Comunal, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	K-Actividades inmobiliarias, empresariales y de alquiler	COOPEBANPO - Cooperativa de Ahorro y Crédito de Los Empleados del Banco Popular y de Desarrollo Comunal, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	M-Enseñanza  (El deudor ofrece este servicio)	COOPEBANPO - Cooperativa de Ahorro y Crédito de Los Empleados del Banco Popular y de Desarrollo Comunal, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	R-Servicios  (El deudor ofrece este servicio)	COOPEBANPO - Cooperativa de Ahorro y Crédito de Los Empleados del Banco Popular y de Desarrollo Comunal, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	S-Consumo  (el deudor consume el bien o servicio)	COOPEBANPO - Cooperativa de Ahorro y Crédito de Los Empleados del Banco Popular y de Desarrollo Comunal, R.L. 07/2008	12406810.51	334756.78	100035.11	17761.95	12973.75	4186.29	55936.60	12932461.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	X-Otras actividades del sector privado no financiero	COOPEBANPO - Cooperativa de Ahorro y Crédito de Los Empleados del Banco Popular y de Desarrollo Comunal, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	Y-Administración pública	COOPEBANPO - Cooperativa de Ahorro y Crédito de Los Empleados del Banco Popular y de Desarrollo Comunal, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	Z-Actividades de entidades y órganos  extraterritoriales	COOPEBANPO - Cooperativa de Ahorro y Crédito de Los Empleados del Banco Popular y de Desarrollo Comunal, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	A-Agricultura, ganadería, caza y actividades de servicios conexas	3004061036 07/2008	76848.15	0.00	0.00	0.00	3522.99	0.00	0.00	80371.14	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	B-Pesca y  acuacultura	3004061036 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	C-Explotación de  minas y canteras	3004061036 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	D-Industria Manufacturera	3004061036 07/2008	5.40	0.00	0.00	0.00	0.00	0.00	0.00	5.40	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	E-Electricidad, telecomunicaciones,  gas y agua	3004061036 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	F-Construcción, compra  y reparación de inmuebles	3004061036 07/2008	404228.30	3549.99	12804.85	0.00	0.00	0.00	0.00	420583.14	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	G-Comercio	3004061036 07/2008	85510.38	7886.44	172.37	0.00	0.00	0.00	0.00	93569.19	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	H-Hotel  y restaurante	3004061036 07/2008	4570.80	0.00	0.00	0.00	0.00	0.00	0.00	4570.80	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	I-Transporte	3004061036 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	J-Actividad  financiera y bursátil	3004061036 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	K-Actividades inmobiliarias, empresariales y de alquiler	3004061036 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	M-Enseñanza  (El deudor ofrece este servicio)	3004061036 07/2008	2769.93	0.00	0.00	0.00	0.00	0.00	0.00	2769.93	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	R-Servicios  (El deudor ofrece este servicio)	3004061036 07/2008	11835.26	0.00	0.00	0.00	0.00	0.00	0.00	11835.26	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	S-Consumo  (el deudor consume el bien o servicio)	3004061036 07/2008	1874802.90	1155.22	15850.02	8382.75	6740.99	10255.68	0.00	1917187.55	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	X-Otras actividades del sector privado no financiero	3004061036 07/2008	17283.03	0.00	0.00	0.00	0.00	0.00	0.00	17283.03	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	Y-Administración pública	3004061036 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	Z-Actividades de entidades y órganos  extraterritoriales	3004061036 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	A-Agricultura, ganadería, caza y actividades de servicios conexas	COOPESANMARCOS - Cooperativa de Ahorro y Crédito de San Marcos de Tarrazú, R.L. 07/2008	806142.61	47443.80	1361.71	0.00	0.00	0.00	0.00	854948.12	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	B-Pesca y  acuacultura	COOPESANMARCOS - Cooperativa de Ahorro y Crédito de San Marcos de Tarrazú, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	C-Explotación de  minas y canteras	COOPESANMARCOS - Cooperativa de Ahorro y Crédito de San Marcos de Tarrazú, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	D-Industria Manufacturera	COOPESANMARCOS - Cooperativa de Ahorro y Crédito de San Marcos de Tarrazú, R.L. 07/2008	2123.92	0.00	23663.09	0.00	0.00	0.00	0.00	25787.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	E-Electricidad, telecomunicaciones,  gas y agua	COOPESANMARCOS - Cooperativa de Ahorro y Crédito de San Marcos de Tarrazú, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	F-Construcción, compra  y reparación de inmuebles	COOPESANMARCOS - Cooperativa de Ahorro y Crédito de San Marcos de Tarrazú, R.L. 07/2008	724689.90	120580.27	15105.51	9447.14	0.00	0.00	0.00	869822.82	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	G-Comercio	COOPESANMARCOS - Cooperativa de Ahorro y Crédito de San Marcos de Tarrazú, R.L. 07/2008	376351.03	56122.30	6257.28	858.51	0.00	0.00	0.00	439589.13	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	H-Hotel  y restaurante	COOPESANMARCOS - Cooperativa de Ahorro y Crédito de San Marcos de Tarrazú, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	I-Transporte	COOPESANMARCOS - Cooperativa de Ahorro y Crédito de San Marcos de Tarrazú, R.L. 07/2008	32932.02	21296.31	0.00	0.00	0.00	0.00	0.00	54228.33	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	J-Actividad  financiera y bursátil	COOPESANMARCOS - Cooperativa de Ahorro y Crédito de San Marcos de Tarrazú, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	K-Actividades inmobiliarias, empresariales y de alquiler	COOPESANMARCOS - Cooperativa de Ahorro y Crédito de San Marcos de Tarrazú, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	M-Enseñanza  (El deudor ofrece este servicio)	COOPESANMARCOS - Cooperativa de Ahorro y Crédito de San Marcos de Tarrazú, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	R-Servicios  (El deudor ofrece este servicio)	COOPESANMARCOS - Cooperativa de Ahorro y Crédito de San Marcos de Tarrazú, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	S-Consumo  (el deudor consume el bien o servicio)	COOPESANMARCOS - Cooperativa de Ahorro y Crédito de San Marcos de Tarrazú, R.L. 07/2008	76546.87	7461.14	790.08	1073.30	0.00	0.00	362.96	86234.35	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	X-Otras actividades del sector privado no financiero	COOPESANMARCOS - Cooperativa de Ahorro y Crédito de San Marcos de Tarrazú, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	Y-Administración pública	COOPESANMARCOS - Cooperativa de Ahorro y Crédito de San Marcos de Tarrazú, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	Z-Actividades de entidades y órganos  extraterritoriales	COOPESANMARCOS - Cooperativa de Ahorro y Crédito de San Marcos de Tarrazú, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	A-Agricultura, ganadería, caza y actividades de servicios conexas	COOPEUNA - Cooperativa de Ahorro y Crédito de Los Empleados Universitarios Estatales, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	B-Pesca y  acuacultura	COOPEUNA - Cooperativa de Ahorro y Crédito de Los Empleados Universitarios Estatales, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	C-Explotación de  minas y canteras	COOPEUNA - Cooperativa de Ahorro y Crédito de Los Empleados Universitarios Estatales, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	D-Industria Manufacturera	COOPEUNA - Cooperativa de Ahorro y Crédito de Los Empleados Universitarios Estatales, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	E-Electricidad, telecomunicaciones,  gas y agua	COOPEUNA - Cooperativa de Ahorro y Crédito de Los Empleados Universitarios Estatales, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	F-Construcción, compra  y reparación de inmuebles	COOPEUNA - Cooperativa de Ahorro y Crédito de Los Empleados Universitarios Estatales, R.L. 07/2008	292709.82	0.00	0.00	0.00	0.00	0.00	0.00	292709.82	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	G-Comercio	COOPEUNA - Cooperativa de Ahorro y Crédito de Los Empleados Universitarios Estatales, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	H-Hotel  y restaurante	COOPEUNA - Cooperativa de Ahorro y Crédito de Los Empleados Universitarios Estatales, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	I-Transporte	COOPEUNA - Cooperativa de Ahorro y Crédito de Los Empleados Universitarios Estatales, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	J-Actividad  financiera y bursátil	COOPEUNA - Cooperativa de Ahorro y Crédito de Los Empleados Universitarios Estatales, R.L. 07/2008	15869.01	0.00	0.00	0.00	0.00	0.00	0.00	15869.01	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	K-Actividades inmobiliarias, empresariales y de alquiler	COOPEUNA - Cooperativa de Ahorro y Crédito de Los Empleados Universitarios Estatales, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	M-Enseñanza  (El deudor ofrece este servicio)	COOPEUNA - Cooperativa de Ahorro y Crédito de Los Empleados Universitarios Estatales, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	R-Servicios  (El deudor ofrece este servicio)	COOPEUNA - Cooperativa de Ahorro y Crédito de Los Empleados Universitarios Estatales, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	S-Consumo  (el deudor consume el bien o servicio)	COOPEUNA - Cooperativa de Ahorro y Crédito de Los Empleados Universitarios Estatales, R.L. 07/2008	1580440.69	7170.60	0.00	0.00	0.00	0.00	0.00	1587611.29	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	X-Otras actividades del sector privado no financiero	COOPEUNA - Cooperativa de Ahorro y Crédito de Los Empleados Universitarios Estatales, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	Y-Administración pública	COOPEUNA - Cooperativa de Ahorro y Crédito de Los Empleados Universitarios Estatales, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	Z-Actividades de entidades y órganos  extraterritoriales	COOPEUNA - Cooperativa de Ahorro y Crédito de Los Empleados Universitarios Estatales, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	A-Agricultura, ganadería, caza y actividades de servicios conexas	COOPAVEGRA - Cooperativa de Ahorro y Crédito Antonio Vega Granados, R.L. 07/2008	85473.58	181.95	0.00	0.00	0.00	0.00	0.00	85655.53	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	B-Pesca y  acuacultura	COOPAVEGRA - Cooperativa de Ahorro y Crédito Antonio Vega Granados, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	C-Explotación de  minas y canteras	COOPAVEGRA - Cooperativa de Ahorro y Crédito Antonio Vega Granados, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	D-Industria Manufacturera	COOPAVEGRA - Cooperativa de Ahorro y Crédito Antonio Vega Granados, R.L. 07/2008	124533.80	3454.03	0.00	0.00	0.00	0.00	0.00	127987.83	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	E-Electricidad, telecomunicaciones,  gas y agua	COOPAVEGRA - Cooperativa de Ahorro y Crédito Antonio Vega Granados, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	F-Construcción, compra  y reparación de inmuebles	COOPAVEGRA - Cooperativa de Ahorro y Crédito Antonio Vega Granados, R.L. 07/2008	1072559.84	85608.19	14933.72	4356.05	10129.67	0.00	0.00	1187587.47	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	G-Comercio	COOPAVEGRA - Cooperativa de Ahorro y Crédito Antonio Vega Granados, R.L. 07/2008	14895.75	0.00	0.00	56745.45	0.00	0.00	0.00	71641.20	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	H-Hotel  y restaurante	COOPAVEGRA - Cooperativa de Ahorro y Crédito Antonio Vega Granados, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	I-Transporte	COOPAVEGRA - Cooperativa de Ahorro y Crédito Antonio Vega Granados, R.L. 07/2008	64796.55	0.00	0.00	0.00	0.00	0.00	0.00	64796.55	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	J-Actividad  financiera y bursátil	COOPAVEGRA - Cooperativa de Ahorro y Crédito Antonio Vega Granados, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	K-Actividades inmobiliarias, empresariales y de alquiler	COOPAVEGRA - Cooperativa de Ahorro y Crédito Antonio Vega Granados, R.L. 07/2008	382495.03	5405.98	0.00	0.00	0.00	0.00	0.00	387901.01	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	M-Enseñanza  (El deudor ofrece este servicio)	COOPAVEGRA - Cooperativa de Ahorro y Crédito Antonio Vega Granados, R.L. 07/2008	2665.43	185.00	0.00	0.00	0.00	0.00	0.00	2850.43	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	R-Servicios  (El deudor ofrece este servicio)	COOPAVEGRA - Cooperativa de Ahorro y Crédito Antonio Vega Granados, R.L. 07/2008	22690.75	2919.11	0.00	0.00	0.00	0.00	0.00	25609.86	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	S-Consumo  (el deudor consume el bien o servicio)	COOPAVEGRA - Cooperativa de Ahorro y Crédito Antonio Vega Granados, R.L. 07/2008	3006384.59	394180.05	91510.65	12342.50	11592.43	180.79	9019.84	3525210.87	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	X-Otras actividades del sector privado no financiero	COOPAVEGRA - Cooperativa de Ahorro y Crédito Antonio Vega Granados, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	Y-Administración pública	COOPAVEGRA - Cooperativa de Ahorro y Crédito Antonio Vega Granados, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	Z-Actividades de entidades y órganos  extraterritoriales	COOPAVEGRA - Cooperativa de Ahorro y Crédito Antonio Vega Granados, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	A-Agricultura, ganadería, caza y actividades de servicios conexas	3004078209 07/2008	45482.54	0.00	0.00	0.00	0.00	0.00	0.00	45482.54	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	B-Pesca y  acuacultura	3004078209 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	C-Explotación de  minas y canteras	3004078209 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	D-Industria Manufacturera	3004078209 07/2008	439019.90	101980.54	4592.78	2942.18	0.00	0.00	0.00	548535.39	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	E-Electricidad, telecomunicaciones,  gas y agua	3004078209 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	F-Construcción, compra  y reparación de inmuebles	3004078209 07/2008	551667.35	165675.01	28557.24	2097.04	0.00	0.00	0.00	747996.63	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	G-Comercio	3004078209 07/2008	38205.12	13609.77	0.00	1383.35	1428.54	0.00	0.00	54626.79	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	H-Hotel  y restaurante	3004078209 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	I-Transporte	3004078209 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	J-Actividad  financiera y bursátil	3004078209 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	K-Actividades inmobiliarias, empresariales y de alquiler	3004078209 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	M-Enseñanza  (El deudor ofrece este servicio)	3004078209 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	R-Servicios  (El deudor ofrece este servicio)	3004078209 07/2008	34.43	4066.86	0.00	0.00	0.00	0.00	0.00	4101.29	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	S-Consumo  (el deudor consume el bien o servicio)	3004078209 07/2008	585345.79	184566.64	61639.16	15591.42	5637.93	0.00	0.00	852780.94	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	X-Otras actividades del sector privado no financiero	3004078209 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	Y-Administración pública	3004078209 07/2008	6904.00	4296.44	267.21	446.13	115.68	0.00	0.00	12029.45	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	Z-Actividades de entidades y órganos  extraterritoriales	3004078209 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	A-Agricultura, ganadería, caza y actividades de servicios conexas	COOPEMEP - Cooperativa de Ahorro y Crédito de Los Empleados del Ministerio de Educación Pública, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	B-Pesca y  acuacultura	COOPEMEP - Cooperativa de Ahorro y Crédito de Los Empleados del Ministerio de Educación Pública, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	C-Explotación de  minas y canteras	COOPEMEP - Cooperativa de Ahorro y Crédito de Los Empleados del Ministerio de Educación Pública, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	D-Industria Manufacturera	COOPEMEP - Cooperativa de Ahorro y Crédito de Los Empleados del Ministerio de Educación Pública, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	E-Electricidad, telecomunicaciones,  gas y agua	COOPEMEP - Cooperativa de Ahorro y Crédito de Los Empleados del Ministerio de Educación Pública, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	F-Construcción, compra  y reparación de inmuebles	COOPEMEP - Cooperativa de Ahorro y Crédito de Los Empleados del Ministerio de Educación Pública, R.L. 07/2008	962014.31	3211.95	5233.73	0.00	0.00	0.00	0.00	970459.99	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	G-Comercio	COOPEMEP - Cooperativa de Ahorro y Crédito de Los Empleados del Ministerio de Educación Pública, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	H-Hotel  y restaurante	COOPEMEP - Cooperativa de Ahorro y Crédito de Los Empleados del Ministerio de Educación Pública, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	I-Transporte	COOPEMEP - Cooperativa de Ahorro y Crédito de Los Empleados del Ministerio de Educación Pública, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	J-Actividad  financiera y bursátil	COOPEMEP - Cooperativa de Ahorro y Crédito de Los Empleados del Ministerio de Educación Pública, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	K-Actividades inmobiliarias, empresariales y de alquiler	COOPEMEP - Cooperativa de Ahorro y Crédito de Los Empleados del Ministerio de Educación Pública, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	M-Enseñanza  (El deudor ofrece este servicio)	COOPEMEP - Cooperativa de Ahorro y Crédito de Los Empleados del Ministerio de Educación Pública, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	R-Servicios  (El deudor ofrece este servicio)	COOPEMEP - Cooperativa de Ahorro y Crédito de Los Empleados del Ministerio de Educación Pública, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	S-Consumo  (el deudor consume el bien o servicio)	COOPEMEP - Cooperativa de Ahorro y Crédito de Los Empleados del Ministerio de Educación Pública, R.L. 07/2008	21234675.53	322456.81	133030.83	4965.53	155894.14	53925.52	0.00	21904948.35	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	X-Otras actividades del sector privado no financiero	COOPEMEP - Cooperativa de Ahorro y Crédito de Los Empleados del Ministerio de Educación Pública, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	Y-Administración pública	COOPEMEP - Cooperativa de Ahorro y Crédito de Los Empleados del Ministerio de Educación Pública, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	Z-Actividades de entidades y órganos  extraterritoriales	COOPEMEP - Cooperativa de Ahorro y Crédito de Los Empleados del Ministerio de Educación Pública, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	A-Agricultura, ganadería, caza y actividades de servicios conexas	COOPEAYA - Cooperativa de Ahorro y Crédito de Los Empleados del Instituto Costarricense de Acueductos y Alcantarillados, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	B-Pesca y  acuacultura	COOPEAYA - Cooperativa de Ahorro y Crédito de Los Empleados del Instituto Costarricense de Acueductos y Alcantarillados, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	C-Explotación de  minas y canteras	COOPEAYA - Cooperativa de Ahorro y Crédito de Los Empleados del Instituto Costarricense de Acueductos y Alcantarillados, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	D-Industria Manufacturera	COOPEAYA - Cooperativa de Ahorro y Crédito de Los Empleados del Instituto Costarricense de Acueductos y Alcantarillados, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	E-Electricidad, telecomunicaciones,  gas y agua	COOPEAYA - Cooperativa de Ahorro y Crédito de Los Empleados del Instituto Costarricense de Acueductos y Alcantarillados, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	F-Construcción, compra  y reparación de inmuebles	COOPEAYA - Cooperativa de Ahorro y Crédito de Los Empleados del Instituto Costarricense de Acueductos y Alcantarillados, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	G-Comercio	COOPEAYA - Cooperativa de Ahorro y Crédito de Los Empleados del Instituto Costarricense de Acueductos y Alcantarillados, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	H-Hotel  y restaurante	COOPEAYA - Cooperativa de Ahorro y Crédito de Los Empleados del Instituto Costarricense de Acueductos y Alcantarillados, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	I-Transporte	COOPEAYA - Cooperativa de Ahorro y Crédito de Los Empleados del Instituto Costarricense de Acueductos y Alcantarillados, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	J-Actividad  financiera y bursátil	COOPEAYA - Cooperativa de Ahorro y Crédito de Los Empleados del Instituto Costarricense de Acueductos y Alcantarillados, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	K-Actividades inmobiliarias, empresariales y de alquiler	COOPEAYA - Cooperativa de Ahorro y Crédito de Los Empleados del Instituto Costarricense de Acueductos y Alcantarillados, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	M-Enseñanza  (El deudor ofrece este servicio)	COOPEAYA - Cooperativa de Ahorro y Crédito de Los Empleados del Instituto Costarricense de Acueductos y Alcantarillados, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	R-Servicios  (El deudor ofrece este servicio)	COOPEAYA - Cooperativa de Ahorro y Crédito de Los Empleados del Instituto Costarricense de Acueductos y Alcantarillados, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	S-Consumo  (el deudor consume el bien o servicio)	COOPEAYA - Cooperativa de Ahorro y Crédito de Los Empleados del Instituto Costarricense de Acueductos y Alcantarillados, R.L. 07/2008	5987414.99	319868.58	103217.30	43179.85	14022.52	6391.85	0.00	6474095.09	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	X-Otras actividades del sector privado no financiero	COOPEAYA - Cooperativa de Ahorro y Crédito de Los Empleados del Instituto Costarricense de Acueductos y Alcantarillados, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	Y-Administración pública	COOPEAYA - Cooperativa de Ahorro y Crédito de Los Empleados del Instituto Costarricense de Acueductos y Alcantarillados, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	Z-Actividades de entidades y órganos  extraterritoriales	COOPEAYA - Cooperativa de Ahorro y Crédito de Los Empleados del Instituto Costarricense de Acueductos y Alcantarillados, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	A-Agricultura, ganadería, caza y actividades de servicios conexas	CREDECOOP - Cooperativa de Ahorro y Crédito para el Desarrollo, R.L. 07/2008	1086722.19	36629.20	10791.14	256495.44	5091.55	0.00	6536.84	1402266.35	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	B-Pesca y  acuacultura	CREDECOOP - Cooperativa de Ahorro y Crédito para el Desarrollo, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	C-Explotación de  minas y canteras	CREDECOOP - Cooperativa de Ahorro y Crédito para el Desarrollo, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	D-Industria Manufacturera	CREDECOOP - Cooperativa de Ahorro y Crédito para el Desarrollo, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	E-Electricidad, telecomunicaciones,  gas y agua	CREDECOOP - Cooperativa de Ahorro y Crédito para el Desarrollo, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	F-Construcción, compra  y reparación de inmuebles	CREDECOOP - Cooperativa de Ahorro y Crédito para el Desarrollo, R.L. 07/2008	514383.04	75252.54	22821.79	0.00	0.00	0.00	8276.89	620734.27	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	G-Comercio	CREDECOOP - Cooperativa de Ahorro y Crédito para el Desarrollo, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	H-Hotel  y restaurante	CREDECOOP - Cooperativa de Ahorro y Crédito para el Desarrollo, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	I-Transporte	CREDECOOP - Cooperativa de Ahorro y Crédito para el Desarrollo, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	J-Actividad  financiera y bursátil	CREDECOOP - Cooperativa de Ahorro y Crédito para el Desarrollo, R.L. 07/2008	350057.19	0.00	0.00	0.00	0.00	0.00	0.00	350057.19	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	k-Actividades inmobiliarias, empresariales y de alquiler	CREDECOOP - Cooperativa de Ahorro y Crédito para el Desarrollo, R.L. 07/2008	3901236.37	845026.18	483063.79	57452.33	41971.44	44834.66	214256.46	5587841.22	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	K-Actividades inmobiliarias, empresariales y de alquiler	CREDECOOP - Cooperativa de Ahorro y Crédito para el Desarrollo, R.L. 07/2008	0.00	0.00	28451.74	42078.43	0.00	0.00	0.00	70530.17	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	M-Enseñanza  (El deudor ofrece este servicio)	CREDECOOP - Cooperativa de Ahorro y Crédito para el Desarrollo, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	R-Servicios  (El deudor ofrece este servicio)	CREDECOOP - Cooperativa de Ahorro y Crédito para el Desarrollo, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	S-Consumo  (el deudor consume el bien o servicio)	CREDECOOP - Cooperativa de Ahorro y Crédito para el Desarrollo, R.L. 07/2008	1218653.37	325175.50	26807.82	29709.88	4695.20	3028.66	63591.19	1671661.62	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	X-Otras actividades del sector privado no financiero	CREDECOOP - Cooperativa de Ahorro y Crédito para el Desarrollo, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	Y-Administración pública	CREDECOOP - Cooperativa de Ahorro y Crédito para el Desarrollo, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	Z-Actividades de entidades y órganos  extraterritoriales	CREDECOOP - Cooperativa de Ahorro y Crédito para el Desarrollo, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	A-Agricultura, ganadería, caza y actividades de servicios conexas	COOPELECHEROS - Cooperativa de Ahorro y Crédito de Los Productores de Leche, R.L. 07/2008	1360042.92	11181.78	0.00	0.00	0.00	0.00	0.00	1371224.69	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	B-Pesca y  acuacultura	COOPELECHEROS - Cooperativa de Ahorro y Crédito de Los Productores de Leche, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	C-Explotación de  minas y canteras	COOPELECHEROS - Cooperativa de Ahorro y Crédito de Los Productores de Leche, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	D-Industria Manufacturera	COOPELECHEROS - Cooperativa de Ahorro y Crédito de Los Productores de Leche, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	E-Electricidad, telecomunicaciones,  gas y agua	COOPELECHEROS - Cooperativa de Ahorro y Crédito de Los Productores de Leche, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	F-Construcción, compra  y reparación de inmuebles	COOPELECHEROS - Cooperativa de Ahorro y Crédito de Los Productores de Leche, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	G-Comercio	COOPELECHEROS - Cooperativa de Ahorro y Crédito de Los Productores de Leche, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	H-Hotel  y restaurante	COOPELECHEROS - Cooperativa de Ahorro y Crédito de Los Productores de Leche, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	I-Transporte	COOPELECHEROS - Cooperativa de Ahorro y Crédito de Los Productores de Leche, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	J-Actividad  financiera y bursátil	COOPELECHEROS - Cooperativa de Ahorro y Crédito de Los Productores de Leche, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	K-Actividades inmobiliarias, empresariales y de alquiler	COOPELECHEROS - Cooperativa de Ahorro y Crédito de Los Productores de Leche, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	M-Enseñanza  (El deudor ofrece este servicio)	COOPELECHEROS - Cooperativa de Ahorro y Crédito de Los Productores de Leche, R.L. 07/2008	164.64	0.00	0.00	0.00	0.00	0.00	0.00	164.64	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	R-Servicios  (El deudor ofrece este servicio)	COOPELECHEROS - Cooperativa de Ahorro y Crédito de Los Productores de Leche, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	S-Consumo  (el deudor consume el bien o servicio)	COOPELECHEROS - Cooperativa de Ahorro y Crédito de Los Productores de Leche, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	X-Otras actividades del sector privado no financiero	COOPELECHEROS - Cooperativa de Ahorro y Crédito de Los Productores de Leche, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	Y-Administración pública	COOPELECHEROS - Cooperativa de Ahorro y Crédito de Los Productores de Leche, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	Z-Actividades de entidades y órganos  extraterritoriales	COOPELECHEROS - Cooperativa de Ahorro y Crédito de Los Productores de Leche, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	A-Agricultura, ganadería, caza y actividades de servicios conexas	COOPEFYL - Cooperativa de Ahorro y Crédito de Los Empleados del Sector Público Privado E Independiente, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	B-Pesca y  acuacultura	COOPEFYL - Cooperativa de Ahorro y Crédito de Los Empleados del Sector Público Privado E Independiente, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	C-Explotación de  minas y canteras	COOPEFYL - Cooperativa de Ahorro y Crédito de Los Empleados del Sector Público Privado E Independiente, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	D-Industria Manufacturera	COOPEFYL - Cooperativa de Ahorro y Crédito de Los Empleados del Sector Público Privado E Independiente, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	E-Electricidad, telecomunicaciones,  gas y agua	COOPEFYL - Cooperativa de Ahorro y Crédito de Los Empleados del Sector Público Privado E Independiente, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	F-Construcción, compra  y reparación de inmuebles	COOPEFYL - Cooperativa de Ahorro y Crédito de Los Empleados del Sector Público Privado E Independiente, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	G-Comercio	COOPEFYL - Cooperativa de Ahorro y Crédito de Los Empleados del Sector Público Privado E Independiente, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	H-Hotel  y restaurante	COOPEFYL - Cooperativa de Ahorro y Crédito de Los Empleados del Sector Público Privado E Independiente, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	I-Transporte	COOPEFYL - Cooperativa de Ahorro y Crédito de Los Empleados del Sector Público Privado E Independiente, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	J-Actividad  financiera y bursátil	COOPEFYL - Cooperativa de Ahorro y Crédito de Los Empleados del Sector Público Privado E Independiente, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	K-Actividades inmobiliarias, empresariales y de alquiler	COOPEFYL - Cooperativa de Ahorro y Crédito de Los Empleados del Sector Público Privado E Independiente, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	M-Enseñanza  (El deudor ofrece este servicio)	COOPEFYL - Cooperativa de Ahorro y Crédito de Los Empleados del Sector Público Privado E Independiente, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	R-Servicios  (El deudor ofrece este servicio)	COOPEFYL - Cooperativa de Ahorro y Crédito de Los Empleados del Sector Público Privado E Independiente, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	S-Consumo  (el deudor consume el bien o servicio)	COOPEFYL - Cooperativa de Ahorro y Crédito de Los Empleados del Sector Público Privado E Independiente, R.L. 07/2008	4662625.59	73042.94	8987.68	5046.48	7215.10	2327.47	38172.93	4797418.20	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	X-Otras actividades del sector privado no financiero	COOPEFYL - Cooperativa de Ahorro y Crédito de Los Empleados del Sector Público Privado E Independiente, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	Y-Administración pública	COOPEFYL - Cooperativa de Ahorro y Crédito de Los Empleados del Sector Público Privado E Independiente, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ORGANIZACIONES COOPERATIVAS DE AHORRO Y CRÉDITO	Z-Actividades de entidades y órganos  extraterritoriales	COOPEFYL - Cooperativa de Ahorro y Crédito de Los Empleados del Sector Público Privado E Independiente, R.L. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+OTRAS ENTIDADES FINANCIERAS	A-Agricultura, ganadería, caza y actividades de servicios conexas	Caja de Ahorro y Préstamo de la Ande. 07/2008	645483.08	23322.98	8770.34	0.00	0.00	0.00	0.00	677576.40	
+OTRAS ENTIDADES FINANCIERAS	B-Pesca y  acuacultura	Caja de Ahorro y Préstamo de la Ande. 07/2008	7208.96	0.00	0.00	0.00	0.00	0.00	0.00	7208.96	
+OTRAS ENTIDADES FINANCIERAS	C-Explotación de  minas y canteras	Caja de Ahorro y Préstamo de la Ande. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+OTRAS ENTIDADES FINANCIERAS	D-Industria Manufacturera	Caja de Ahorro y Préstamo de la Ande. 07/2008	65597.09	12459.87	0.00	1290.44	0.00	0.00	0.00	79347.41	
+OTRAS ENTIDADES FINANCIERAS	E-Electricidad, telecomunicaciones,  gas y agua	Caja de Ahorro y Préstamo de la Ande. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+OTRAS ENTIDADES FINANCIERAS	F-Construcción, compra  y reparación de inmuebles	Caja de Ahorro y Préstamo de la Ande. 07/2008	47987807.86	993624.78	112752.42	47528.03	28921.05	4774.54	20563.20	49195971.87	
+OTRAS ENTIDADES FINANCIERAS	G-Comercio	Caja de Ahorro y Préstamo de la Ande. 07/2008	741590.65	9349.85	2052.06	0.00	0.00	0.00	0.00	752992.56	
+OTRAS ENTIDADES FINANCIERAS	H-Hotel  y restaurante	Caja de Ahorro y Préstamo de la Ande. 07/2008	20714.42	3962.26	0.00	0.00	0.00	0.00	0.00	24676.68	
+OTRAS ENTIDADES FINANCIERAS	I-Transporte	Caja de Ahorro y Préstamo de la Ande. 07/2008	348339.40	13833.89	0.00	0.00	0.00	0.00	0.00	362173.29	
+OTRAS ENTIDADES FINANCIERAS	J-Actividad  financiera y bursátil	Caja de Ahorro y Préstamo de la Ande. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+OTRAS ENTIDADES FINANCIERAS	K-Actividades inmobiliarias, empresariales y de alquiler	Caja de Ahorro y Préstamo de la Ande. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+OTRAS ENTIDADES FINANCIERAS	M-Enseñanza  (El deudor ofrece este servicio)	Caja de Ahorro y Préstamo de la Ande. 07/2008	67567.43	0.00	0.00	0.00	0.00	0.00	0.00	67567.43	
+OTRAS ENTIDADES FINANCIERAS	R-Servicios  (El deudor ofrece este servicio)	Caja de Ahorro y Préstamo de la Ande. 07/2008	407629.20	23607.79	0.00	0.00	0.00	0.00	0.00	431236.99	
+OTRAS ENTIDADES FINANCIERAS	S-Consumo  (el deudor consume el bien o servicio)	Caja de Ahorro y Préstamo de la Ande. 07/2008	106691073.13	1220604.47	281341.39	59177.10	54804.22	23297.72	4219.13	108334517.16	
+OTRAS ENTIDADES FINANCIERAS	X-Otras actividades del sector privado no financiero	Caja de Ahorro y Préstamo de la Ande. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+OTRAS ENTIDADES FINANCIERAS	Y-Administración pública	Caja de Ahorro y Préstamo de la Ande. 07/2008	32547.16	0.00	7252.66	0.00	0.00	0.00	0.00	39799.82	
+OTRAS ENTIDADES FINANCIERAS	Z-Actividades de entidades y órganos  extraterritoriales	Caja de Ahorro y Préstamo de la Ande. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+BANCOS CREADOS POR LEYES ESPECIALES	A-Agricultura, ganadería, caza y actividades de servicios conexas	BANHVI - Banco Hipotecario de la Vivienda 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+BANCOS CREADOS POR LEYES ESPECIALES	B-Pesca y  acuacultura	BANHVI - Banco Hipotecario de la Vivienda 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+BANCOS CREADOS POR LEYES ESPECIALES	C-Explotación de  minas y canteras	BANHVI - Banco Hipotecario de la Vivienda 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+BANCOS CREADOS POR LEYES ESPECIALES	D-Industria Manufacturera	BANHVI - Banco Hipotecario de la Vivienda 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+BANCOS CREADOS POR LEYES ESPECIALES	E-Electricidad, telecomunicaciones,  gas y agua	BANHVI - Banco Hipotecario de la Vivienda 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+BANCOS CREADOS POR LEYES ESPECIALES	F-Construcción, compra  y reparación de inmuebles	BANHVI - Banco Hipotecario de la Vivienda 07/2008	719.71	0.00	0.00	0.00	0.00	0.00	0.00	719.71	
+BANCOS CREADOS POR LEYES ESPECIALES	G-Comercio	BANHVI - Banco Hipotecario de la Vivienda 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+BANCOS CREADOS POR LEYES ESPECIALES	H-Hotel  y restaurante	BANHVI - Banco Hipotecario de la Vivienda 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+BANCOS CREADOS POR LEYES ESPECIALES	I-Transporte	BANHVI - Banco Hipotecario de la Vivienda 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+BANCOS CREADOS POR LEYES ESPECIALES	J-Actividad  financiera y bursátil	BANHVI - Banco Hipotecario de la Vivienda 07/2008	49556454.85	0.00	0.00	0.00	0.00	0.00	0.00	49556454.85	
+BANCOS CREADOS POR LEYES ESPECIALES	K-Actividades inmobiliarias, empresariales y de alquiler	BANHVI - Banco Hipotecario de la Vivienda 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+BANCOS CREADOS POR LEYES ESPECIALES	M-Enseñanza  (El deudor ofrece este servicio)	BANHVI - Banco Hipotecario de la Vivienda 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+BANCOS CREADOS POR LEYES ESPECIALES	R-Servicios  (El deudor ofrece este servicio)	BANHVI - Banco Hipotecario de la Vivienda 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+BANCOS CREADOS POR LEYES ESPECIALES	S-Consumo  (el deudor consume el bien o servicio)	BANHVI - Banco Hipotecario de la Vivienda 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+BANCOS CREADOS POR LEYES ESPECIALES	X-Otras actividades del sector privado no financiero	BANHVI - Banco Hipotecario de la Vivienda 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+BANCOS CREADOS POR LEYES ESPECIALES	Y-Administración pública	BANHVI - Banco Hipotecario de la Vivienda 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+BANCOS CREADOS POR LEYES ESPECIALES	Z-Actividades de entidades y órganos  extraterritoriales	BANHVI - Banco Hipotecario de la Vivienda 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ENTIDADES AUTORIZADAS SISTEMA FINANCIERO NACIONAL VIVIENDA	A-Agricultura, ganadería, caza y actividades de servicios conexas	GRUPO MUTUAL - Grupo Mutual Alajuela-La Vivienda de Ahorro y Préstamo 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ENTIDADES AUTORIZADAS SISTEMA FINANCIERO NACIONAL VIVIENDA	B-Pesca y  acuacultura	GRUPO MUTUAL - Grupo Mutual Alajuela-La Vivienda de Ahorro y Préstamo 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ENTIDADES AUTORIZADAS SISTEMA FINANCIERO NACIONAL VIVIENDA	C-Explotación de  minas y canteras	GRUPO MUTUAL - Grupo Mutual Alajuela-La Vivienda de Ahorro y Préstamo 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ENTIDADES AUTORIZADAS SISTEMA FINANCIERO NACIONAL VIVIENDA	D-Industria Manufacturera	GRUPO MUTUAL - Grupo Mutual Alajuela-La Vivienda de Ahorro y Préstamo 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ENTIDADES AUTORIZADAS SISTEMA FINANCIERO NACIONAL VIVIENDA	E-Electricidad, telecomunicaciones,  gas y agua	GRUPO MUTUAL - Grupo Mutual Alajuela-La Vivienda de Ahorro y Préstamo 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ENTIDADES AUTORIZADAS SISTEMA FINANCIERO NACIONAL VIVIENDA	F-Construcción, compra  y reparación de inmuebles	GRUPO MUTUAL - Grupo Mutual Alajuela-La Vivienda de Ahorro y Préstamo 07/2008	97122609.61	23769318.40	10756233.95	1543481.58	434168.59	83933.47	1914987.25	135624732.85	
+ENTIDADES AUTORIZADAS SISTEMA FINANCIERO NACIONAL VIVIENDA	G-Comercio	GRUPO MUTUAL - Grupo Mutual Alajuela-La Vivienda de Ahorro y Préstamo 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ENTIDADES AUTORIZADAS SISTEMA FINANCIERO NACIONAL VIVIENDA	H-Hotel  y restaurante	GRUPO MUTUAL - Grupo Mutual Alajuela-La Vivienda de Ahorro y Préstamo 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ENTIDADES AUTORIZADAS SISTEMA FINANCIERO NACIONAL VIVIENDA	I-Transporte	GRUPO MUTUAL - Grupo Mutual Alajuela-La Vivienda de Ahorro y Préstamo 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ENTIDADES AUTORIZADAS SISTEMA FINANCIERO NACIONAL VIVIENDA	J-Actividad  financiera y bursátil	GRUPO MUTUAL - Grupo Mutual Alajuela-La Vivienda de Ahorro y Préstamo 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ENTIDADES AUTORIZADAS SISTEMA FINANCIERO NACIONAL VIVIENDA	K-Actividades inmobiliarias, empresariales y de alquiler	GRUPO MUTUAL - Grupo Mutual Alajuela-La Vivienda de Ahorro y Préstamo 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ENTIDADES AUTORIZADAS SISTEMA FINANCIERO NACIONAL VIVIENDA	M-Enseñanza  (El deudor ofrece este servicio)	GRUPO MUTUAL - Grupo Mutual Alajuela-La Vivienda de Ahorro y Préstamo 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ENTIDADES AUTORIZADAS SISTEMA FINANCIERO NACIONAL VIVIENDA	R-Servicios  (El deudor ofrece este servicio)	GRUPO MUTUAL - Grupo Mutual Alajuela-La Vivienda de Ahorro y Préstamo 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ENTIDADES AUTORIZADAS SISTEMA FINANCIERO NACIONAL VIVIENDA	S-Consumo  (el deudor consume el bien o servicio)	GRUPO MUTUAL - Grupo Mutual Alajuela-La Vivienda de Ahorro y Préstamo 07/2008	59608976.66	16588867.50	6214856.42	1690621.55	580776.10	10672.15	974673.81	85669444.20	
+ENTIDADES AUTORIZADAS SISTEMA FINANCIERO NACIONAL VIVIENDA	X-Otras actividades del sector privado no financiero	GRUPO MUTUAL - Grupo Mutual Alajuela-La Vivienda de Ahorro y Préstamo 07/2008	349619.59	139519.94	55929.88	0.00	2300.42	0.00	3728.21	551098.04	
+ENTIDADES AUTORIZADAS SISTEMA FINANCIERO NACIONAL VIVIENDA	Y-Administración pública	GRUPO MUTUAL - Grupo Mutual Alajuela-La Vivienda de Ahorro y Préstamo 07/2008	122800.76	27017.58	9596.49	1023.27	0.00	0.00	1161.91	161600.00	
+ENTIDADES AUTORIZADAS SISTEMA FINANCIERO NACIONAL VIVIENDA	Z-Actividades de entidades y órganos  extraterritoriales	GRUPO MUTUAL - Grupo Mutual Alajuela-La Vivienda de Ahorro y Préstamo 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ENTIDADES AUTORIZADAS SISTEMA FINANCIERO NACIONAL VIVIENDA	A-Agricultura, ganadería, caza y actividades de servicios conexas	MUCAP - Mutual Cartago de Ahorro y Préstamo 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ENTIDADES AUTORIZADAS SISTEMA FINANCIERO NACIONAL VIVIENDA	B-Pesca y  acuacultura	MUCAP - Mutual Cartago de Ahorro y Préstamo 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ENTIDADES AUTORIZADAS SISTEMA FINANCIERO NACIONAL VIVIENDA	C-Explotación de  minas y canteras	MUCAP - Mutual Cartago de Ahorro y Préstamo 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ENTIDADES AUTORIZADAS SISTEMA FINANCIERO NACIONAL VIVIENDA	D-Industria Manufacturera	MUCAP - Mutual Cartago de Ahorro y Préstamo 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ENTIDADES AUTORIZADAS SISTEMA FINANCIERO NACIONAL VIVIENDA	E-Electricidad, telecomunicaciones,  gas y agua	MUCAP - Mutual Cartago de Ahorro y Préstamo 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ENTIDADES AUTORIZADAS SISTEMA FINANCIERO NACIONAL VIVIENDA	F-Construcción, compra  y reparación de inmuebles	MUCAP - Mutual Cartago de Ahorro y Préstamo 07/2008	67223801.87	8205621.10	3563706.73	899430.22	14400.23	0.00	1482590.04	81389550.19	
+ENTIDADES AUTORIZADAS SISTEMA FINANCIERO NACIONAL VIVIENDA	G-Comercio	MUCAP - Mutual Cartago de Ahorro y Préstamo 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ENTIDADES AUTORIZADAS SISTEMA FINANCIERO NACIONAL VIVIENDA	H-Hotel  y restaurante	MUCAP - Mutual Cartago de Ahorro y Préstamo 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ENTIDADES AUTORIZADAS SISTEMA FINANCIERO NACIONAL VIVIENDA	I-Transporte	MUCAP - Mutual Cartago de Ahorro y Préstamo 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ENTIDADES AUTORIZADAS SISTEMA FINANCIERO NACIONAL VIVIENDA	J-Actividad  financiera y bursátil	MUCAP - Mutual Cartago de Ahorro y Préstamo 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ENTIDADES AUTORIZADAS SISTEMA FINANCIERO NACIONAL VIVIENDA	k-Actividades inmobiliarias, empresariales y de alquiler	MUCAP - Mutual Cartago de Ahorro y Préstamo 07/2008	2972835.28	128769.11	19698.99	0.00	0.00	0.00	7108.80	3128412.17	
+ENTIDADES AUTORIZADAS SISTEMA FINANCIERO NACIONAL VIVIENDA	K-Actividades inmobiliarias, empresariales y de alquiler	MUCAP - Mutual Cartago de Ahorro y Préstamo 07/2008	0.00	0.00	15371.92	533.82	0.00	0.00	0.00	15905.73	
+ENTIDADES AUTORIZADAS SISTEMA FINANCIERO NACIONAL VIVIENDA	M-Enseñanza  (El deudor ofrece este servicio)	MUCAP - Mutual Cartago de Ahorro y Préstamo 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ENTIDADES AUTORIZADAS SISTEMA FINANCIERO NACIONAL VIVIENDA	R-Servicios  (El deudor ofrece este servicio)	MUCAP - Mutual Cartago de Ahorro y Préstamo 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ENTIDADES AUTORIZADAS SISTEMA FINANCIERO NACIONAL VIVIENDA	S-Consumo  (el deudor consume el bien o servicio)	MUCAP - Mutual Cartago de Ahorro y Préstamo 07/2008	6876857.36	924517.50	360306.95	85345.28	0.00	0.00	165479.23	8412506.32	
+ENTIDADES AUTORIZADAS SISTEMA FINANCIERO NACIONAL VIVIENDA	X-Otras actividades del sector privado no financiero	MUCAP - Mutual Cartago de Ahorro y Préstamo 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ENTIDADES AUTORIZADAS SISTEMA FINANCIERO NACIONAL VIVIENDA	Y-Administración pública	MUCAP - Mutual Cartago de Ahorro y Préstamo 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+ENTIDADES AUTORIZADAS SISTEMA FINANCIERO NACIONAL VIVIENDA	Z-Actividades de entidades y órganos  extraterritoriales	MUCAP - Mutual Cartago de Ahorro y Préstamo 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+BANCOS PRIVADOS Y COOPERATIVOS	A-Agricultura, ganadería, caza y actividades de servicios conexas	BANCO BAC SAN JOSE S A 07/2008	3536083.21	5366.04	5104.48	0.00	0.00	0.00	365178.64	3911732.37	
+BANCOS PRIVADOS Y COOPERATIVOS	B-Pesca y  acuacultura	BANCO BAC SAN JOSE S A 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+BANCOS PRIVADOS Y COOPERATIVOS	C-Explotación de  minas y canteras	BANCO BAC SAN JOSE S A 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+BANCOS PRIVADOS Y COOPERATIVOS	D-Industria Manufacturera	BANCO BAC SAN JOSE S A 07/2008	44103249.45	0.00	0.00	0.00	0.00	0.00	0.00	44103249.45	
+BANCOS PRIVADOS Y COOPERATIVOS	E-Electricidad, telecomunicaciones,  gas y agua	BANCO BAC SAN JOSE S A 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+BANCOS PRIVADOS Y COOPERATIVOS	F-Construcción, compra  y reparación de inmuebles	BANCO BAC SAN JOSE S A 07/2008	181989734.73	2475266.33	281100.80	0.00	52904.35	0.00	812224.57	185611230.78	
+BANCOS PRIVADOS Y COOPERATIVOS	G-Comercio	BANCO BAC SAN JOSE S A 07/2008	37597308.27	17374.66	15294.21	7173.87	0.00	0.00	360.08	37637511.09	
+BANCOS PRIVADOS Y COOPERATIVOS	H-Hotel  y restaurante	BANCO BAC SAN JOSE S A 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+BANCOS PRIVADOS Y COOPERATIVOS	I-Transporte	BANCO BAC SAN JOSE S A 07/2008	354171.78	0.00	0.00	0.00	0.00	0.00	0.00	354171.78	
+BANCOS PRIVADOS Y COOPERATIVOS	J-Actividad  financiera y bursátil	BANCO BAC SAN JOSE S A 07/2008	32830790.77	0.00	0.00	0.00	0.00	0.00	0.00	32830790.77	
+BANCOS PRIVADOS Y COOPERATIVOS	K-Actividades inmobiliarias, empresariales y de alquiler	BANCO BAC SAN JOSE S A 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+BANCOS PRIVADOS Y COOPERATIVOS	M-Enseñanza  (El deudor ofrece este servicio)	BANCO BAC SAN JOSE S A 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+BANCOS PRIVADOS Y COOPERATIVOS	R-Servicios  (El deudor ofrece este servicio)	BANCO BAC SAN JOSE S A 07/2008	26312913.20	4360.33	0.00	0.00	18580.46	0.00	10670.22	26346524.21	
+BANCOS PRIVADOS Y COOPERATIVOS	S-Consumo  (el deudor consume el bien o servicio)	BANCO BAC SAN JOSE S A 07/2008	181157382.41	8797943.69	3071195.44	1711369.53	2105788.35	179021.55	408202.47	197430903.45	
+BANCOS PRIVADOS Y COOPERATIVOS	X-Otras actividades del sector privado no financiero	BANCO BAC SAN JOSE S A 07/2008	25206385.41	317245.25	21424.31	136.24	0.00	0.00	0.00	25545191.21	
+BANCOS PRIVADOS Y COOPERATIVOS	Y-Administración pública	BANCO BAC SAN JOSE S A 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+BANCOS PRIVADOS Y COOPERATIVOS	Z-Actividades de entidades y órganos  extraterritoriales	BANCO BAC SAN JOSE S A 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+BANCOS PRIVADOS Y COOPERATIVOS	A-Agricultura, ganadería, caza y actividades de servicios conexas	3101012090 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+BANCOS PRIVADOS Y COOPERATIVOS	B-Pesca y  acuacultura	3101012090 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+BANCOS PRIVADOS Y COOPERATIVOS	C-Explotación de  minas y canteras	3101012090 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+BANCOS PRIVADOS Y COOPERATIVOS	D-Industria Manufacturera	3101012090 07/2008	2589013.13	50582.29	0.00	0.00	0.00	0.00	0.00	2639595.42	
+BANCOS PRIVADOS Y COOPERATIVOS	E-Electricidad, telecomunicaciones,  gas y agua	3101012090 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+BANCOS PRIVADOS Y COOPERATIVOS	F-Construcción, compra  y reparación de inmuebles	3101012090 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+BANCOS PRIVADOS Y COOPERATIVOS	G-Comercio	3101012090 07/2008	5012296.72	288751.63	0.00	0.00	0.00	0.00	0.00	5301048.36	
+BANCOS PRIVADOS Y COOPERATIVOS	H-Hotel  y restaurante	3101012090 07/2008	547895.59	0.00	0.00	0.00	0.00	0.00	0.00	547895.59	
+BANCOS PRIVADOS Y COOPERATIVOS	I-Transporte	3101012090 07/2008	47.52	0.00	0.00	0.00	0.00	0.00	0.00	47.52	
+BANCOS PRIVADOS Y COOPERATIVOS	J-Actividad  financiera y bursátil	3101012090 07/2008	17015429.91	0.00	0.00	0.00	0.00	0.00	0.00	17015429.91	
+BANCOS PRIVADOS Y COOPERATIVOS	K-Actividades inmobiliarias, empresariales y de alquiler	3101012090 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+BANCOS PRIVADOS Y COOPERATIVOS	M-Enseñanza  (El deudor ofrece este servicio)	3101012090 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+BANCOS PRIVADOS Y COOPERATIVOS	R-Servicios  (El deudor ofrece este servicio)	3101012090 07/2008	75701.60	0.00	0.00	0.00	0.00	0.00	0.00	75701.60	
+BANCOS PRIVADOS Y COOPERATIVOS	S-Consumo  (el deudor consume el bien o servicio)	3101012090 07/2008	37554.80	0.00	0.00	0.00	1077.17	0.00	0.00	38631.97	
+BANCOS PRIVADOS Y COOPERATIVOS	X-Otras actividades del sector privado no financiero	3101012090 07/2008	172.87	0.00	0.00	0.00	0.00	0.00	0.00	172.87	
+BANCOS PRIVADOS Y COOPERATIVOS	Y-Administración pública	3101012090 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+BANCOS PRIVADOS Y COOPERATIVOS	Z-Actividades de entidades y órganos  extraterritoriales	3101012090 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+BANCOS PRIVADOS Y COOPERATIVOS	A-Agricultura, ganadería, caza y actividades de servicios conexas	BANCO LAFISE SOCIEDAD ANONIMA 07/2008	106539.43	0.00	0.00	0.00	0.00	0.00	69723.65	176263.08	
+BANCOS PRIVADOS Y COOPERATIVOS	B-Pesca y  acuacultura	BANCO LAFISE SOCIEDAD ANONIMA 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+BANCOS PRIVADOS Y COOPERATIVOS	C-Explotación de  minas y canteras	BANCO LAFISE SOCIEDAD ANONIMA 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+BANCOS PRIVADOS Y COOPERATIVOS	D-Industria Manufacturera	BANCO LAFISE SOCIEDAD ANONIMA 07/2008	1854343.54	926.85	4228.90	0.00	0.00	0.00	0.00	1859499.29	
+BANCOS PRIVADOS Y COOPERATIVOS	E-Electricidad, telecomunicaciones,  gas y agua	BANCO LAFISE SOCIEDAD ANONIMA 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+BANCOS PRIVADOS Y COOPERATIVOS	F-Construcción, compra  y reparación de inmuebles	BANCO LAFISE SOCIEDAD ANONIMA 07/2008	18405842.13	1093741.50	331172.37	0.00	269603.76	18061.55	174864.57	20293285.87	
+BANCOS PRIVADOS Y COOPERATIVOS	G-Comercio	BANCO LAFISE SOCIEDAD ANONIMA 07/2008	23420381.17	253260.96	143094.97	31308.50	16288.38	32748.02	92013.82	23989095.82	
+BANCOS PRIVADOS Y COOPERATIVOS	H-Hotel  y restaurante	BANCO LAFISE SOCIEDAD ANONIMA 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+BANCOS PRIVADOS Y COOPERATIVOS	I-Transporte	BANCO LAFISE SOCIEDAD ANONIMA 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+BANCOS PRIVADOS Y COOPERATIVOS	J-Actividad  financiera y bursátil	BANCO LAFISE SOCIEDAD ANONIMA 07/2008	9792849.33	0.00	0.00	0.00	0.00	0.00	0.00	9792849.33	
+BANCOS PRIVADOS Y COOPERATIVOS	K-Actividades inmobiliarias, empresariales y de alquiler	BANCO LAFISE SOCIEDAD ANONIMA 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+BANCOS PRIVADOS Y COOPERATIVOS	M-Enseñanza  (El deudor ofrece este servicio)	BANCO LAFISE SOCIEDAD ANONIMA 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+BANCOS PRIVADOS Y COOPERATIVOS	R-Servicios  (El deudor ofrece este servicio)	BANCO LAFISE SOCIEDAD ANONIMA 07/2008	13854028.98	1194108.14	840.51	0.00	17740.43	0.00	0.00	15066718.07	
+BANCOS PRIVADOS Y COOPERATIVOS	S-Consumo  (el deudor consume el bien o servicio)	BANCO LAFISE SOCIEDAD ANONIMA 07/2008	8755500.85	464342.64	287151.72	92057.06	106463.01	525292.25	69202.21	10300009.74	
+BANCOS PRIVADOS Y COOPERATIVOS	X-Otras actividades del sector privado no financiero	BANCO LAFISE SOCIEDAD ANONIMA 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+BANCOS PRIVADOS Y COOPERATIVOS	Y-Administración pública	BANCO LAFISE SOCIEDAD ANONIMA 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+BANCOS PRIVADOS Y COOPERATIVOS	Z-Actividades de entidades y órganos  extraterritoriales	BANCO LAFISE SOCIEDAD ANONIMA 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+BANCOS PRIVADOS Y COOPERATIVOS	A-Agricultura, ganadería, caza y actividades de servicios conexas	Banco Davivienda Costa Rica Sociedad Anonima 07/2008	2186555.75	0.00	0.00	0.00	0.00	0.00	11493.51	2198049.26	
+BANCOS PRIVADOS Y COOPERATIVOS	B-Pesca y  acuacultura	Banco Davivienda Costa Rica Sociedad Anonima 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+BANCOS PRIVADOS Y COOPERATIVOS	C-Explotación de  minas y canteras	Banco Davivienda Costa Rica Sociedad Anonima 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+BANCOS PRIVADOS Y COOPERATIVOS	D-Industria Manufacturera	Banco Davivienda Costa Rica Sociedad Anonima 07/2008	7274809.84	510324.75	0.00	0.00	0.00	0.00	0.00	7785134.58	
+BANCOS PRIVADOS Y COOPERATIVOS	E-Electricidad, telecomunicaciones,  gas y agua	Banco Davivienda Costa Rica Sociedad Anonima 07/2008	3385.03	0.00	0.00	0.00	0.00	0.00	0.00	3385.03	
+BANCOS PRIVADOS Y COOPERATIVOS	F-Construcción, compra  y reparación de inmuebles	Banco Davivienda Costa Rica Sociedad Anonima 07/2008	142566543.64	1294670.24	307272.24	451460.84	639241.44	0.00	539520.63	145798709.01	
+BANCOS PRIVADOS Y COOPERATIVOS	G-Comercio	Banco Davivienda Costa Rica Sociedad Anonima 07/2008	148331685.17	4032422.68	1257168.01	503228.05	2679617.19	10923.83	870084.37	157685129.30	
+BANCOS PRIVADOS Y COOPERATIVOS	H-Hotel  y restaurante	Banco Davivienda Costa Rica Sociedad Anonima 07/2008	592098.21	0.00	0.00	0.00	11878.67	0.00	0.00	603976.88	
+BANCOS PRIVADOS Y COOPERATIVOS	I-Transporte	Banco Davivienda Costa Rica Sociedad Anonima 07/2008	278731.57	0.00	0.00	7356.74	0.00	0.00	0.00	286088.31	
+BANCOS PRIVADOS Y COOPERATIVOS	J-Actividad  financiera y bursátil	Banco Davivienda Costa Rica Sociedad Anonima 07/2008	35760.77	0.00	0.00	0.00	0.00	0.00	0.00	35760.77	
+BANCOS PRIVADOS Y COOPERATIVOS	k-Actividades inmobiliarias, empresariales y de alquiler	Banco Davivienda Costa Rica Sociedad Anonima 07/2008	0	0.00	0	0.00	0	0.00	0	0.00	
+BANCOS PRIVADOS Y COOPERATIVOS	K-Actividades inmobiliarias, empresariales y de alquiler	Banco Davivienda Costa Rica Sociedad Anonima 07/2008	836683.39	0.00	0.00	0.00	0.00	0.00	0.00	836683.39	
+BANCOS PRIVADOS Y COOPERATIVOS	M-Enseñanza  (El deudor ofrece este servicio)	Banco Davivienda Costa Rica Sociedad Anonima 07/2008	11216.20	0.00	0.00	0.00	0.00	0.00	0.00	11216.20	
+BANCOS PRIVADOS Y COOPERATIVOS	R-Servicios  (El deudor ofrece este servicio)	Banco Davivienda Costa Rica Sociedad Anonima 07/2008	37020104.77	250242.89	40349.38	126977.03	13422.65	0.00	553919.48	38005016.20	
+BANCOS PRIVADOS Y COOPERATIVOS	S-Consumo  (el deudor consume el bien o servicio)	Banco Davivienda Costa Rica Sociedad Anonima 07/2008	85380359.59	4455364.78	1577052.80	693892.88	258405.16	31553.73	7329737.40	99726366.35	
+BANCOS PRIVADOS Y COOPERATIVOS	X-Otras actividades del sector privado no financiero	Banco Davivienda Costa Rica Sociedad Anonima 07/2008	27818358.52	0.00	387.44	30.64	17.61	13549.31	299.36	27832642.87	
+BANCOS PRIVADOS Y COOPERATIVOS	Y-Administración pública	Banco Davivienda Costa Rica Sociedad Anonima 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+BANCOS PRIVADOS Y COOPERATIVOS	Z-Actividades de entidades y órganos  extraterritoriales	Banco Davivienda Costa Rica Sociedad Anonima 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+BANCOS PRIVADOS Y COOPERATIVOS	A-Agricultura, ganadería, caza y actividades de servicios conexas	SCOTIABANK DE COSTA RICA S A 07/2008	1859034.84	20725.27	329140.68	0.00	0.00	0.00	0.00	2208900.79	
+BANCOS PRIVADOS Y COOPERATIVOS	B-Pesca y  acuacultura	SCOTIABANK DE COSTA RICA S A 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+BANCOS PRIVADOS Y COOPERATIVOS	C-Explotación de  minas y canteras	SCOTIABANK DE COSTA RICA S A 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+BANCOS PRIVADOS Y COOPERATIVOS	D-Industria Manufacturera	SCOTIABANK DE COSTA RICA S A 07/2008	39121407.59	9997.44	0.00	178518.08	0.00	0.00	1207269.23	40517192.34	
+BANCOS PRIVADOS Y COOPERATIVOS	E-Electricidad, telecomunicaciones,  gas y agua	SCOTIABANK DE COSTA RICA S A 07/2008	6032992.68	466.45	0.00	0.00	0.00	0.00	0.00	6033459.13	
+BANCOS PRIVADOS Y COOPERATIVOS	F-Construcción, compra  y reparación de inmuebles	SCOTIABANK DE COSTA RICA S A 07/2008	291425757.85	17788086.67	3059918.87	1032851.06	595337.68	563624.28	1765595.01	316231171.42	
+BANCOS PRIVADOS Y COOPERATIVOS	G-Comercio	SCOTIABANK DE COSTA RICA S A 07/2008	60370553.95	255442.42	202358.02	0.00	0.00	494794.14	58296.78	61381445.31	
+BANCOS PRIVADOS Y COOPERATIVOS	H-Hotel  y restaurante	SCOTIABANK DE COSTA RICA S A 07/2008	15825340.36	9.55	0.00	0.00	0.00	0.00	0.00	15825349.91	
+BANCOS PRIVADOS Y COOPERATIVOS	I-Transporte	SCOTIABANK DE COSTA RICA S A 07/2008	6946017.99	28235.35	0.00	84400.97	46480.47	29777.12	23230.95	7158142.84	
+BANCOS PRIVADOS Y COOPERATIVOS	J-Actividad  financiera y bursátil	SCOTIABANK DE COSTA RICA S A 07/2008	50392856.71	20693.46	0.00	0.00	0.00	0.00	0.00	50413550.17	
+BANCOS PRIVADOS Y COOPERATIVOS	K-Actividades inmobiliarias, empresariales y de alquiler	SCOTIABANK DE COSTA RICA S A 07/2008	17564932.69	0.00	87.01	0.00	0.00	0.00	0.00	17565019.70	
+BANCOS PRIVADOS Y COOPERATIVOS	M-Enseñanza  (El deudor ofrece este servicio)	SCOTIABANK DE COSTA RICA S A 07/2008	1063368.94	0.00	0.00	0.00	0.00	0.00	0.00	1063368.94	
+BANCOS PRIVADOS Y COOPERATIVOS	R-Servicios  (El deudor ofrece este servicio)	SCOTIABANK DE COSTA RICA S A 07/2008	17424265.86	263939.32	1118823.99	0.00	0.00	1217.50	160382.92	18968629.59	
+BANCOS PRIVADOS Y COOPERATIVOS	S-Consumo  (el deudor consume el bien o servicio)	SCOTIABANK DE COSTA RICA S A 07/2008	141001692.30	8771306.86	3490274.83	817954.96	676431.67	250434.24	1699831.85	156707926.71	
+BANCOS PRIVADOS Y COOPERATIVOS	X-Otras actividades del sector privado no financiero	SCOTIABANK DE COSTA RICA S A 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+BANCOS PRIVADOS Y COOPERATIVOS	Y-Administración pública	SCOTIABANK DE COSTA RICA S A 07/2008	249204.91	0.00	0.00	0.00	0.00	0.00	0.00	249204.91	
+BANCOS PRIVADOS Y COOPERATIVOS	Z-Actividades de entidades y órganos  extraterritoriales	SCOTIABANK DE COSTA RICA S A 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+BANCOS PRIVADOS Y COOPERATIVOS	A-Agricultura, ganadería, caza y actividades de servicios conexas	3101046710 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+BANCOS PRIVADOS Y COOPERATIVOS	B-Pesca y  acuacultura	3101046710 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+BANCOS PRIVADOS Y COOPERATIVOS	C-Explotación de  minas y canteras	3101046710 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+BANCOS PRIVADOS Y COOPERATIVOS	D-Industria Manufacturera	3101046710 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+BANCOS PRIVADOS Y COOPERATIVOS	E-Electricidad, telecomunicaciones,  gas y agua	3101046710 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+BANCOS PRIVADOS Y COOPERATIVOS	F-Construcción, compra  y reparación de inmuebles	3101046710 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+BANCOS PRIVADOS Y COOPERATIVOS	G-Comercio	3101046710 07/2008	1971.13	0.00	0.00	0.00	0.00	0.00	0.00	1971.13	
+BANCOS PRIVADOS Y COOPERATIVOS	H-Hotel  y restaurante	3101046710 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+BANCOS PRIVADOS Y COOPERATIVOS	I-Transporte	3101046710 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+BANCOS PRIVADOS Y COOPERATIVOS	J-Actividad  financiera y bursátil	3101046710 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+BANCOS PRIVADOS Y COOPERATIVOS	K-Actividades inmobiliarias, empresariales y de alquiler	3101046710 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+BANCOS PRIVADOS Y COOPERATIVOS	M-Enseñanza  (El deudor ofrece este servicio)	3101046710 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+BANCOS PRIVADOS Y COOPERATIVOS	R-Servicios  (El deudor ofrece este servicio)	3101046710 07/2008	3147624.62	3.18	0.00	0.00	0.00	0.00	0.00	3147627.80	
+BANCOS PRIVADOS Y COOPERATIVOS	S-Consumo  (el deudor consume el bien o servicio)	3101046710 07/2008	30538341.25	3963035.42	974700.71	372458.95	270038.42	0.00	106076.60	36224651.34	
+BANCOS PRIVADOS Y COOPERATIVOS	X-Otras actividades del sector privado no financiero	3101046710 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+BANCOS PRIVADOS Y COOPERATIVOS	Y-Administración pública	3101046710 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+BANCOS PRIVADOS Y COOPERATIVOS	Z-Actividades de entidades y órganos  extraterritoriales	3101046710 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+BANCOS PRIVADOS Y COOPERATIVOS	A-Agricultura, ganadería, caza y actividades de servicios conexas	BANCO BCT S A 07/2008	9028972.46	0.00	0.00	0.00	0.00	0.00	0.00	9028972.46	
+BANCOS PRIVADOS Y COOPERATIVOS	B-Pesca y  acuacultura	BANCO BCT S A 07/2008	1110.94	0.00	0.00	0.00	0.00	0.00	0.00	1110.94	
+BANCOS PRIVADOS Y COOPERATIVOS	C-Explotación de  minas y canteras	BANCO BCT S A 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+BANCOS PRIVADOS Y COOPERATIVOS	D-Industria Manufacturera	BANCO BCT S A 07/2008	4206255.67	0.00	0.00	0.00	0.00	0.00	0.00	4206255.67	
+BANCOS PRIVADOS Y COOPERATIVOS	E-Electricidad, telecomunicaciones,  gas y agua	BANCO BCT S A 07/2008	449383.28	0.00	0.00	0.00	0.00	0.00	0.00	449383.28	
+BANCOS PRIVADOS Y COOPERATIVOS	F-Construcción, compra  y reparación de inmuebles	BANCO BCT S A 07/2008	2257894.96	0.00	0.00	0.00	0.00	0.00	63499.43	2321394.39	
+BANCOS PRIVADOS Y COOPERATIVOS	G-Comercio	BANCO BCT S A 07/2008	27500133.50	5300.05	16707.18	0.00	0.00	0.00	71290.40	27593431.14	
+BANCOS PRIVADOS Y COOPERATIVOS	H-Hotel  y restaurante	BANCO BCT S A 07/2008	1649565.20	0.00	0.00	0.00	0.00	0.00	0.00	1649565.20	
+BANCOS PRIVADOS Y COOPERATIVOS	I-Transporte	BANCO BCT S A 07/2008	3694918.16	0.00	0.00	0.00	0.00	0.00	0.00	3694918.16	
+BANCOS PRIVADOS Y COOPERATIVOS	J-Actividad  financiera y bursátil	BANCO BCT S A 07/2008	6134765.32	0.00	0.00	0.00	0.00	0.00	0.00	6134765.32	
+BANCOS PRIVADOS Y COOPERATIVOS	K-Actividades inmobiliarias, empresariales y de alquiler	BANCO BCT S A 07/2008	2927182.57	0.00	0.00	0.00	0.00	0.00	0.00	2927182.57	
+BANCOS PRIVADOS Y COOPERATIVOS	M-Enseñanza  (El deudor ofrece este servicio)	BANCO BCT S A 07/2008	103359.17	0.00	0.00	0.00	0.00	0.00	0.00	103359.17	
+BANCOS PRIVADOS Y COOPERATIVOS	R-Servicios  (El deudor ofrece este servicio)	BANCO BCT S A 07/2008	6357597.52	0.00	0.00	0.00	0.00	17171.82	0.00	6374769.33	
+BANCOS PRIVADOS Y COOPERATIVOS	S-Consumo  (el deudor consume el bien o servicio)	BANCO BCT S A 07/2008	590141.62	0.00	1049.50	6689.98	0.00	1046.27	14954.03	613881.40	
+BANCOS PRIVADOS Y COOPERATIVOS	X-Otras actividades del sector privado no financiero	BANCO BCT S A 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+BANCOS PRIVADOS Y COOPERATIVOS	Y-Administración pública	BANCO BCT S A 07/2008	1334129.41	0.00	0.00	0.00	0.00	0.00	0.00	1334129.41	
+BANCOS PRIVADOS Y COOPERATIVOS	Z-Actividades de entidades y órganos  extraterritoriales	BANCO BCT S A 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+EMPRESAS FINANCIERAS NO BANCARIAS	A-Agricultura, ganadería, caza y actividades de servicios conexas	Financiera Cafsa, S.A. 07/2008	228740.47	61972.39	0.00	0.00	0.00	0.00	18233.35	308946.21	
+EMPRESAS FINANCIERAS NO BANCARIAS	B-Pesca y  acuacultura	Financiera Cafsa, S.A. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+EMPRESAS FINANCIERAS NO BANCARIAS	C-Explotación de  minas y canteras	Financiera Cafsa, S.A. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+EMPRESAS FINANCIERAS NO BANCARIAS	D-Industria Manufacturera	Financiera Cafsa, S.A. 07/2008	144879.56	0.00	0.00	11743.98	0.00	0.00	0.00	156623.54	
+EMPRESAS FINANCIERAS NO BANCARIAS	E-Electricidad, telecomunicaciones,  gas y agua	Financiera Cafsa, S.A. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+EMPRESAS FINANCIERAS NO BANCARIAS	F-Construcción, compra  y reparación de inmuebles	Financiera Cafsa, S.A. 07/2008	196300.38	28983.65	0.00	0.00	0.00	0.00	0.00	225284.03	
+EMPRESAS FINANCIERAS NO BANCARIAS	G-Comercio	Financiera Cafsa, S.A. 07/2008	2678226.94	133264.17	29189.70	0.00	183.49	139.90	7016.36	2848020.55	
+EMPRESAS FINANCIERAS NO BANCARIAS	H-Hotel  y restaurante	Financiera Cafsa, S.A. 07/2008	121446.68	0.00	0.00	0.00	0.00	0.00	0.00	121446.68	
+EMPRESAS FINANCIERAS NO BANCARIAS	I-Transporte	Financiera Cafsa, S.A. 07/2008	2726026.40	160203.83	12110.92	0.00	0.00	0.00	0.00	2898341.16	
+EMPRESAS FINANCIERAS NO BANCARIAS	J-Actividad  financiera y bursátil	Financiera Cafsa, S.A. 07/2008	9846.14	0.00	0.00	0.00	0.00	0.00	0.00	9846.14	
+EMPRESAS FINANCIERAS NO BANCARIAS	K-Actividades inmobiliarias, empresariales y de alquiler	Financiera Cafsa, S.A. 07/2008	286246.30	19175.86	0.00	0.00	0.00	0.00	0.00	305422.16	
+EMPRESAS FINANCIERAS NO BANCARIAS	M-Enseñanza  (El deudor ofrece este servicio)	Financiera Cafsa, S.A. 07/2008	51957.24	0.00	0.00	0.00	0.00	0.00	0.00	51957.24	
+EMPRESAS FINANCIERAS NO BANCARIAS	R-Servicios  (El deudor ofrece este servicio)	Financiera Cafsa, S.A. 07/2008	6210030.44	505693.69	38933.98	6957.85	0.00	162.30	27981.09	6789759.35	
+EMPRESAS FINANCIERAS NO BANCARIAS	S-Consumo  (el deudor consume el bien o servicio)	Financiera Cafsa, S.A. 07/2008	1497029.34	161475.68	39193.17	0.00	4053.22	0.00	52586.26	1754337.68	
+EMPRESAS FINANCIERAS NO BANCARIAS	X-Otras actividades del sector privado no financiero	Financiera Cafsa, S.A. 07/2008	19162.23	0.00	0.00	0.00	0.00	0.00	0.00	19162.23	
+EMPRESAS FINANCIERAS NO BANCARIAS	Y-Administración pública	Financiera Cafsa, S.A. 07/2008	445017.11	7499.06	0.00	0.00	0.00	0.00	0.00	452516.17	
+EMPRESAS FINANCIERAS NO BANCARIAS	Z-Actividades de entidades y órganos  extraterritoriales	Financiera Cafsa, S.A. 07/2008	260906.77	19318.67	0.00	0.00	0.00	0.00	0.00	280225.43	
+EMPRESAS FINANCIERAS NO BANCARIAS	A-Agricultura, ganadería, caza y actividades de servicios conexas	FINANCIERA G&T CONTINENTAL COSTA RICA S A 07/2008	8235.60	0.00	0.00	0.00	0.00	0.00	0.00	8235.60	
+EMPRESAS FINANCIERAS NO BANCARIAS	B-Pesca y  acuacultura	FINANCIERA G&T CONTINENTAL COSTA RICA S A 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+EMPRESAS FINANCIERAS NO BANCARIAS	C-Explotación de  minas y canteras	FINANCIERA G&T CONTINENTAL COSTA RICA S A 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+EMPRESAS FINANCIERAS NO BANCARIAS	D-Industria Manufacturera	FINANCIERA G&T CONTINENTAL COSTA RICA S A 07/2008	24977.28	0.00	0.00	0.00	0.00	0.00	0.00	24977.28	
+EMPRESAS FINANCIERAS NO BANCARIAS	E-Electricidad, telecomunicaciones,  gas y agua	FINANCIERA G&T CONTINENTAL COSTA RICA S A 07/2008	47951.89	0.00	0.00	0.00	0.00	0.00	0.00	47951.89	
+EMPRESAS FINANCIERAS NO BANCARIAS	F-Construcción, compra  y reparación de inmuebles	FINANCIERA G&T CONTINENTAL COSTA RICA S A 07/2008	136277.94	13564.73	0.00	0.00	0.00	0.00	0.00	149842.67	
+EMPRESAS FINANCIERAS NO BANCARIAS	G-Comercio	FINANCIERA G&T CONTINENTAL COSTA RICA S A 07/2008	295036.87	0.00	0.00	0.00	0.00	0.00	0.00	295036.87	
+EMPRESAS FINANCIERAS NO BANCARIAS	H-Hotel  y restaurante	FINANCIERA G&T CONTINENTAL COSTA RICA S A 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+EMPRESAS FINANCIERAS NO BANCARIAS	I-Transporte	FINANCIERA G&T CONTINENTAL COSTA RICA S A 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+EMPRESAS FINANCIERAS NO BANCARIAS	J-Actividad  financiera y bursátil	FINANCIERA G&T CONTINENTAL COSTA RICA S A 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+EMPRESAS FINANCIERAS NO BANCARIAS	K-Actividades inmobiliarias, empresariales y de alquiler	FINANCIERA G&T CONTINENTAL COSTA RICA S A 07/2008	21074.06	0.00	0.00	0.00	0.00	0.00	0.00	21074.06	
+EMPRESAS FINANCIERAS NO BANCARIAS	M-Enseñanza  (El deudor ofrece este servicio)	FINANCIERA G&T CONTINENTAL COSTA RICA S A 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+EMPRESAS FINANCIERAS NO BANCARIAS	R-Servicios  (El deudor ofrece este servicio)	FINANCIERA G&T CONTINENTAL COSTA RICA S A 07/2008	1003113.55	51242.78	19004.93	0.00	34794.85	0.00	0.00	1108156.12	
+EMPRESAS FINANCIERAS NO BANCARIAS	S-Consumo  (el deudor consume el bien o servicio)	FINANCIERA G&T CONTINENTAL COSTA RICA S A 07/2008	144212.72	44130.01	0.00	22298.93	0.00	414.69	0.00	211056.35	
+EMPRESAS FINANCIERAS NO BANCARIAS	X-Otras actividades del sector privado no financiero	FINANCIERA G&T CONTINENTAL COSTA RICA S A 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+EMPRESAS FINANCIERAS NO BANCARIAS	Y-Administración pública	FINANCIERA G&T CONTINENTAL COSTA RICA S A 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+EMPRESAS FINANCIERAS NO BANCARIAS	Z-Actividades de entidades y órganos  extraterritoriales	FINANCIERA G&T CONTINENTAL COSTA RICA S A 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+BANCOS PRIVADOS Y COOPERATIVOS	A-Agricultura, ganadería, caza y actividades de servicios conexas	THE BANK OF NOVA SCOTIA COSTA RICA SOCIEDAD ANONIMA 07/2008	15406802.96	305831.32	16616.48	356611.74	0.00	0.00	0.00	16085862.49	
+BANCOS PRIVADOS Y COOPERATIVOS	B-Pesca y  acuacultura	THE BANK OF NOVA SCOTIA COSTA RICA SOCIEDAD ANONIMA 07/2008	2150173.54	0.00	0.00	0.00	0.00	0.00	0.00	2150173.54	
+BANCOS PRIVADOS Y COOPERATIVOS	C-Explotación de  minas y canteras	THE BANK OF NOVA SCOTIA COSTA RICA SOCIEDAD ANONIMA 07/2008	32127.11	0.00	0.00	0.00	0.00	0.00	0.00	32127.11	
+BANCOS PRIVADOS Y COOPERATIVOS	D-Industria Manufacturera	THE BANK OF NOVA SCOTIA COSTA RICA SOCIEDAD ANONIMA 07/2008	15724388.15	75961.42	70556.97	134656.77	0.00	812.06	13549.36	16019924.73	
+BANCOS PRIVADOS Y COOPERATIVOS	E-Electricidad, telecomunicaciones,  gas y agua	THE BANK OF NOVA SCOTIA COSTA RICA SOCIEDAD ANONIMA 07/2008	4138753.73	5048.72	0.00	0.00	0.00	0.00	0.00	4143802.44	
+BANCOS PRIVADOS Y COOPERATIVOS	F-Construcción, compra  y reparación de inmuebles	THE BANK OF NOVA SCOTIA COSTA RICA SOCIEDAD ANONIMA 07/2008	43542152.28	2605469.63	700133.37	271954.41	85.50	3.74	201654.93	47321453.85	
+BANCOS PRIVADOS Y COOPERATIVOS	G-Comercio	THE BANK OF NOVA SCOTIA COSTA RICA SOCIEDAD ANONIMA 07/2008	37126478.83	1995723.21	93982.84	30395.38	16606.37	215472.46	57212.39	39535871.47	
+BANCOS PRIVADOS Y COOPERATIVOS	H-Hotel  y restaurante	THE BANK OF NOVA SCOTIA COSTA RICA SOCIEDAD ANONIMA 07/2008	4712843.76	473201.63	272933.36	161786.59	5429.95	0.00	4830.88	5631026.18	
+BANCOS PRIVADOS Y COOPERATIVOS	I-Transporte	THE BANK OF NOVA SCOTIA COSTA RICA SOCIEDAD ANONIMA 07/2008	8076394.35	102974.51	0.00	0.00	83298.07	0.00	135451.04	8398117.98	
+BANCOS PRIVADOS Y COOPERATIVOS	J-Actividad  financiera y bursátil	THE BANK OF NOVA SCOTIA COSTA RICA SOCIEDAD ANONIMA 07/2008	14963806.21	8104.09	0.00	0.00	0.00	0.00	0.00	14971910.31	
+BANCOS PRIVADOS Y COOPERATIVOS	K-Actividades inmobiliarias, empresariales y de alquiler	THE BANK OF NOVA SCOTIA COSTA RICA SOCIEDAD ANONIMA 07/2008	16345985.14	2023584.69	68849.96	0.00	158344.99	0.00	0.00	18596764.78	
+BANCOS PRIVADOS Y COOPERATIVOS	M-Enseñanza  (El deudor ofrece este servicio)	THE BANK OF NOVA SCOTIA COSTA RICA SOCIEDAD ANONIMA 07/2008	1773716.20	0.00	0.00	0.00	0.00	0.00	0.00	1773716.20	
+BANCOS PRIVADOS Y COOPERATIVOS	R-Servicios  (El deudor ofrece este servicio)	THE BANK OF NOVA SCOTIA COSTA RICA SOCIEDAD ANONIMA 07/2008	40774814.43	285945.51	91687.97	161786.59	0.00	6074.15	63124.27	41383432.93	
+BANCOS PRIVADOS Y COOPERATIVOS	S-Consumo  (el deudor consume el bien o servicio)	THE BANK OF NOVA SCOTIA COSTA RICA SOCIEDAD ANONIMA 07/2008	82736382.85	4431958.99	1006910.24	264250.21	336047.52	34299.33	1188612.72	89998461.85	
+BANCOS PRIVADOS Y COOPERATIVOS	X-Otras actividades del sector privado no financiero	THE BANK OF NOVA SCOTIA COSTA RICA SOCIEDAD ANONIMA 07/2008	379482.35	0.00	0.00	0.00	0.00	0.00	0.00	379482.35	
+BANCOS PRIVADOS Y COOPERATIVOS	Y-Administración pública	THE BANK OF NOVA SCOTIA COSTA RICA SOCIEDAD ANONIMA 07/2008	5595233.56	5.80	0.00	0.02	21.45	0.00	29372.71	5624633.53	
+BANCOS PRIVADOS Y COOPERATIVOS	Z-Actividades de entidades y órganos  extraterritoriales	THE BANK OF NOVA SCOTIA COSTA RICA SOCIEDAD ANONIMA 07/2008	177447.07	0.00	0.00	0.00	0.00	0.00	0.00	177447.07	
+BANCOS PRIVADOS Y COOPERATIVOS	A-Agricultura, ganadería, caza y actividades de servicios conexas	BANCO IMPROSA S A 07/2008	5431947.88	34900.75	0.00	0.00	0.00	0.00	0.00	5466848.63	
+BANCOS PRIVADOS Y COOPERATIVOS	B-Pesca y  acuacultura	BANCO IMPROSA S A 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+BANCOS PRIVADOS Y COOPERATIVOS	C-Explotación de  minas y canteras	BANCO IMPROSA S A 07/2008	0.00	132577.22	0.00	0.00	0.00	0.00	0.00	132577.22	
+BANCOS PRIVADOS Y COOPERATIVOS	D-Industria Manufacturera	BANCO IMPROSA S A 07/2008	12484611.82	1083930.49	16537.44	18659.87	39474.21	0.00	0.00	13643213.83	
+BANCOS PRIVADOS Y COOPERATIVOS	E-Electricidad, telecomunicaciones,  gas y agua	BANCO IMPROSA S A 07/2008	668297.25	108059.81	0.00	0.00	0.00	0.00	0.00	776357.06	
+BANCOS PRIVADOS Y COOPERATIVOS	F-Construcción, compra  y reparación de inmuebles	BANCO IMPROSA S A 07/2008	58692964.60	756250.99	71991.59	199856.09	0.00	193196.92	332284.40	60246544.59	
+BANCOS PRIVADOS Y COOPERATIVOS	G-Comercio	BANCO IMPROSA S A 07/2008	23242882.56	1018066.75	0.00	0.00	3821.14	13312.51	389397.44	24667480.40	
+BANCOS PRIVADOS Y COOPERATIVOS	H-Hotel  y restaurante	BANCO IMPROSA S A 07/2008	3957998.24	104199.44	0.00	0.00	0.00	0.00	0.00	4062197.68	
+BANCOS PRIVADOS Y COOPERATIVOS	I-Transporte	BANCO IMPROSA S A 07/2008	6956386.69	622353.46	1493.44	0.00	0.00	0.00	30106.89	7610340.48	
+BANCOS PRIVADOS Y COOPERATIVOS	J-Actividad  financiera y bursátil	BANCO IMPROSA S A 07/2008	20935839.42	1349.27	0.00	0.00	0.00	0.00	0.00	20937188.69	
+BANCOS PRIVADOS Y COOPERATIVOS	K-Actividades inmobiliarias, empresariales y de alquiler	BANCO IMPROSA S A 07/2008	17929388.50	324740.75	0.00	0.00	0.00	0.00	0.00	18254129.25	
+BANCOS PRIVADOS Y COOPERATIVOS	M-Enseñanza  (El deudor ofrece este servicio)	BANCO IMPROSA S A 07/2008	253426.26	0.00	0.00	0.00	0.00	0.00	0.00	253426.26	
+BANCOS PRIVADOS Y COOPERATIVOS	R-Servicios  (El deudor ofrece este servicio)	BANCO IMPROSA S A 07/2008	24773126.44	1899307.28	543806.09	0.00	13460.88	38860.92	137772.36	27406333.99	
+BANCOS PRIVADOS Y COOPERATIVOS	S-Consumo  (el deudor consume el bien o servicio)	BANCO IMPROSA S A 07/2008	6552940.69	312098.69	112348.62	138820.59	220518.93	972652.14	40899.19	8350278.85	
+BANCOS PRIVADOS Y COOPERATIVOS	X-Otras actividades del sector privado no financiero	BANCO IMPROSA S A 07/2008	864947.55	26322.98	0.00	0.00	0.00	0.00	125998.38	1017268.91	
+BANCOS PRIVADOS Y COOPERATIVOS	Y-Administración pública	BANCO IMPROSA S A 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+BANCOS PRIVADOS Y COOPERATIVOS	Z-Actividades de entidades y órganos  extraterritoriales	BANCO IMPROSA S A 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+EMPRESAS FINANCIERAS NO BANCARIAS	A-Agricultura, ganadería, caza y actividades de servicios conexas	3101089984-A 07/2008	77295.42	0.00	0.00	0.00	71531.24	0.00	0.00	148826.66	
+EMPRESAS FINANCIERAS NO BANCARIAS	B-Pesca y  acuacultura	3101089984-A 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+EMPRESAS FINANCIERAS NO BANCARIAS	C-Explotación de  minas y canteras	3101089984-A 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+EMPRESAS FINANCIERAS NO BANCARIAS	D-Industria Manufacturera	3101089984-A 07/2008	308541.38	9879.22	0.00	0.00	0.00	0.00	0.00	318420.60	
+EMPRESAS FINANCIERAS NO BANCARIAS	E-Electricidad, telecomunicaciones,  gas y agua	3101089984-A 07/2008	70744.88	0.00	0.00	0.00	0.00	534.36	0.00	71279.24	
+EMPRESAS FINANCIERAS NO BANCARIAS	F-Construcción, compra  y reparación de inmuebles	3101089984-A 07/2008	1354022.24	0.00	0.00	0.00	0.00	0.00	0.00	1354022.24	
+EMPRESAS FINANCIERAS NO BANCARIAS	G-Comercio	3101089984-A 07/2008	1277279.53	310591.96	0.00	58334.05	3915.49	0.00	9686.92	1659807.95	
+EMPRESAS FINANCIERAS NO BANCARIAS	H-Hotel  y restaurante	3101089984-A 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+EMPRESAS FINANCIERAS NO BANCARIAS	I-Transporte	3101089984-A 07/2008	318688.93	45504.53	15039.00	354.01	5080.08	849.50	6702.10	392218.16	
+EMPRESAS FINANCIERAS NO BANCARIAS	J-Actividad  financiera y bursátil	3101089984-A 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+EMPRESAS FINANCIERAS NO BANCARIAS	K-Actividades inmobiliarias, empresariales y de alquiler	3101089984-A 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+EMPRESAS FINANCIERAS NO BANCARIAS	M-Enseñanza  (El deudor ofrece este servicio)	3101089984-A 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+EMPRESAS FINANCIERAS NO BANCARIAS	R-Servicios  (El deudor ofrece este servicio)	3101089984-A 07/2008	1235458.19	23690.80	14556.03	0.00	0.00	799.30	0.00	1274504.33	
+EMPRESAS FINANCIERAS NO BANCARIAS	S-Consumo  (el deudor consume el bien o servicio)	3101089984-A 07/2008	65716.11	11955.03	2021.43	1246.54	2962.84	2590.29	3658.09	90150.31	
+EMPRESAS FINANCIERAS NO BANCARIAS	X-Otras actividades del sector privado no financiero	3101089984-A 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+EMPRESAS FINANCIERAS NO BANCARIAS	Y-Administración pública	3101089984-A 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+EMPRESAS FINANCIERAS NO BANCARIAS	Z-Actividades de entidades y órganos  extraterritoriales	3101089984-A 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+BANCOS PRIVADOS Y COOPERATIVOS	A-Agricultura, ganadería, caza y actividades de servicios conexas	BANCO PROMERICA DE COSTA RICA S A 07/2008	1485950.45	387170.65	0.00	0.00	0.00	0.00	0.00	1873121.10	
+BANCOS PRIVADOS Y COOPERATIVOS	B-Pesca y  acuacultura	BANCO PROMERICA DE COSTA RICA S A 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+BANCOS PRIVADOS Y COOPERATIVOS	C-Explotación de  minas y canteras	BANCO PROMERICA DE COSTA RICA S A 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+BANCOS PRIVADOS Y COOPERATIVOS	D-Industria Manufacturera	BANCO PROMERICA DE COSTA RICA S A 07/2008	2231508.50	390131.43	0.00	0.00	0.00	0.00	373.09	2622013.01	
+BANCOS PRIVADOS Y COOPERATIVOS	E-Electricidad, telecomunicaciones,  gas y agua	BANCO PROMERICA DE COSTA RICA S A 07/2008	266184.00	0.00	0.00	0.00	0.00	0.00	0.00	266184.00	
+BANCOS PRIVADOS Y COOPERATIVOS	F-Construcción, compra  y reparación de inmuebles	BANCO PROMERICA DE COSTA RICA S A 07/2008	29245875.60	687642.87	720783.08	0.00	0.00	0.00	876102.21	31530403.76	
+BANCOS PRIVADOS Y COOPERATIVOS	G-Comercio	BANCO PROMERICA DE COSTA RICA S A 07/2008	18928213.85	94299.84	30973.31	0.00	0.00	0.00	86293.81	19139780.81	
+BANCOS PRIVADOS Y COOPERATIVOS	H-Hotel  y restaurante	BANCO PROMERICA DE COSTA RICA S A 07/2008	711713.38	21748.35	0.00	0.00	0.00	0.00	0.00	733461.73	
+BANCOS PRIVADOS Y COOPERATIVOS	I-Transporte	BANCO PROMERICA DE COSTA RICA S A 07/2008	5268079.53	2283.38	0.00	0.00	0.00	0.00	0.00	5270362.90	
+BANCOS PRIVADOS Y COOPERATIVOS	J-Actividad  financiera y bursátil	BANCO PROMERICA DE COSTA RICA S A 07/2008	9988635.46	156702.57	0.00	0.00	0.00	0.00	0.00	10145338.04	
+BANCOS PRIVADOS Y COOPERATIVOS	k-Actividades inmobiliarias, empresariales y de alquiler	BANCO PROMERICA DE COSTA RICA S A 07/2008	15927080.03	0.00	0.00	0.00	0.00	0.00	0.00	15927080.03	
+BANCOS PRIVADOS Y COOPERATIVOS	K-Actividades inmobiliarias, empresariales y de alquiler	BANCO PROMERICA DE COSTA RICA S A 07/2008	1074240.72	277213.32	611410.31	0.00	0.00	0.00	284212.34	2247076.69	
+BANCOS PRIVADOS Y COOPERATIVOS	M-Enseñanza  (El deudor ofrece este servicio)	BANCO PROMERICA DE COSTA RICA S A 07/2008	1241515.00	0.00	0.00	0.00	0.00	0.00	0.00	1241515.00	
+BANCOS PRIVADOS Y COOPERATIVOS	R-Servicios  (El deudor ofrece este servicio)	BANCO PROMERICA DE COSTA RICA S A 07/2008	8758862.68	245391.45	849.22	0.00	0.00	0.00	181410.26	9186513.61	
+BANCOS PRIVADOS Y COOPERATIVOS	S-Consumo  (el deudor consume el bien o servicio)	BANCO PROMERICA DE COSTA RICA S A 07/2008	47304742.98	2262266.92	747666.70	243991.69	110192.50	2467.71	934817.58	51606146.07	
+BANCOS PRIVADOS Y COOPERATIVOS	X-Otras actividades del sector privado no financiero	BANCO PROMERICA DE COSTA RICA S A 07/2008	43602.17	0.00	0.00	0.00	0.00	0.00	0.00	43602.17	
+BANCOS PRIVADOS Y COOPERATIVOS	Y-Administración pública	BANCO PROMERICA DE COSTA RICA S A 07/2008	3604063.84	0.00	637.07	0.00	0.00	0.00	0.00	3604700.91	
+BANCOS PRIVADOS Y COOPERATIVOS	Z-Actividades de entidades y órganos  extraterritoriales	BANCO PROMERICA DE COSTA RICA S A 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+EMPRESAS FINANCIERAS NO BANCARIAS	A-Agricultura, ganadería, caza y actividades de servicios conexas	Financiera Desyfin S.A. 07/2008	264815.58	0.00	0.00	0.00	0.00	0.00	0.00	264815.58	
+EMPRESAS FINANCIERAS NO BANCARIAS	B-Pesca y  acuacultura	Financiera Desyfin S.A. 07/2008	4043.34	0.00	0.00	0.00	0.00	0.00	0.00	4043.34	
+EMPRESAS FINANCIERAS NO BANCARIAS	C-Explotación de  minas y canteras	Financiera Desyfin S.A. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+EMPRESAS FINANCIERAS NO BANCARIAS	D-Industria Manufacturera	Financiera Desyfin S.A. 07/2008	246756.15	0.00	0.00	0.00	0.00	0.00	5543.15	252299.30	
+EMPRESAS FINANCIERAS NO BANCARIAS	E-Electricidad, telecomunicaciones,  gas y agua	Financiera Desyfin S.A. 07/2008	103813.15	0.00	0.00	0.00	0.00	0.00	0.00	103813.15	
+EMPRESAS FINANCIERAS NO BANCARIAS	F-Construcción, compra  y reparación de inmuebles	Financiera Desyfin S.A. 07/2008	933511.12	0.00	1982.48	0.00	0.00	0.00	6408.14	941901.74	
+EMPRESAS FINANCIERAS NO BANCARIAS	G-Comercio	Financiera Desyfin S.A. 07/2008	17022821.53	411498.42	41866.21	3982.85	10544.54	0.00	176062.76	17666776.30	
+EMPRESAS FINANCIERAS NO BANCARIAS	H-Hotel  y restaurante	Financiera Desyfin S.A. 07/2008	110561.70	14031.77	0.00	0.00	0.00	0.00	0.00	124593.47	
+EMPRESAS FINANCIERAS NO BANCARIAS	I-Transporte	Financiera Desyfin S.A. 07/2008	250127.79	10101.71	7797.19	0.00	0.00	0.00	12737.54	280764.23	
+EMPRESAS FINANCIERAS NO BANCARIAS	J-Actividad  financiera y bursátil	Financiera Desyfin S.A. 07/2008	260802.74	0.00	0.00	0.00	0.00	0.00	0.00	260802.74	
+EMPRESAS FINANCIERAS NO BANCARIAS	K-Actividades inmobiliarias, empresariales y de alquiler	Financiera Desyfin S.A. 07/2008	137837.88	0.00	16202.14	0.00	0.00	0.00	0.00	154040.02	
+EMPRESAS FINANCIERAS NO BANCARIAS	M-Enseñanza  (El deudor ofrece este servicio)	Financiera Desyfin S.A. 07/2008	2287.31	0.00	0.00	0.00	0.00	0.00	0.00	2287.31	
+EMPRESAS FINANCIERAS NO BANCARIAS	R-Servicios  (El deudor ofrece este servicio)	Financiera Desyfin S.A. 07/2008	1387314.44	0.00	0.00	0.00	1175.13	0.00	0.00	1388489.57	
+EMPRESAS FINANCIERAS NO BANCARIAS	S-Consumo  (el deudor consume el bien o servicio)	Financiera Desyfin S.A. 07/2008	515564.15	17187.02	12680.47	0.00	1628.50	0.00	9126.73	556186.87	
+EMPRESAS FINANCIERAS NO BANCARIAS	X-Otras actividades del sector privado no financiero	Financiera Desyfin S.A. 07/2008	55176.88	4065.05	0.00	0.00	0.00	0.00	0.00	59241.93	
+EMPRESAS FINANCIERAS NO BANCARIAS	Y-Administración pública	Financiera Desyfin S.A. 07/2008	704667.05	13289.31	0.00	0.00	0.00	0.00	6333.96	724290.33	
+EMPRESAS FINANCIERAS NO BANCARIAS	Z-Actividades de entidades y órganos  extraterritoriales	Financiera Desyfin S.A. 07/2008	1614088.08	74779.50	10178.19	0.00	0.00	0.00	3630.06	1702675.84	
+EMPRESAS FINANCIERAS NO BANCARIAS	A-Agricultura, ganadería, caza y actividades de servicios conexas	3101187708 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+EMPRESAS FINANCIERAS NO BANCARIAS	B-Pesca y  acuacultura	3101187708 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+EMPRESAS FINANCIERAS NO BANCARIAS	C-Explotación de  minas y canteras	3101187708 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+EMPRESAS FINANCIERAS NO BANCARIAS	D-Industria Manufacturera	3101187708 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+EMPRESAS FINANCIERAS NO BANCARIAS	E-Electricidad, telecomunicaciones,  gas y agua	3101187708 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+EMPRESAS FINANCIERAS NO BANCARIAS	F-Construcción, compra  y reparación de inmuebles	3101187708 07/2008	4400472.73	126560.76	33632.23	0.00	0.00	0.00	54589.20	4615254.91	
+EMPRESAS FINANCIERAS NO BANCARIAS	G-Comercio	3101187708 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+EMPRESAS FINANCIERAS NO BANCARIAS	H-Hotel  y restaurante	3101187708 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+EMPRESAS FINANCIERAS NO BANCARIAS	I-Transporte	3101187708 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+EMPRESAS FINANCIERAS NO BANCARIAS	J-Actividad  financiera y bursátil	3101187708 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+EMPRESAS FINANCIERAS NO BANCARIAS	K-Actividades inmobiliarias, empresariales y de alquiler	3101187708 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+EMPRESAS FINANCIERAS NO BANCARIAS	M-Enseñanza  (El deudor ofrece este servicio)	3101187708 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+EMPRESAS FINANCIERAS NO BANCARIAS	R-Servicios  (El deudor ofrece este servicio)	3101187708 07/2008	18028.63	0.00	0.00	0.00	0.00	0.00	0.00	18028.63	
+EMPRESAS FINANCIERAS NO BANCARIAS	S-Consumo  (el deudor consume el bien o servicio)	3101187708 07/2008	657377.66	0.00	0.00	0.00	0.00	0.00	2981.52	660359.18	
+EMPRESAS FINANCIERAS NO BANCARIAS	X-Otras actividades del sector privado no financiero	3101187708 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+EMPRESAS FINANCIERAS NO BANCARIAS	Y-Administración pública	3101187708 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+EMPRESAS FINANCIERAS NO BANCARIAS	Z-Actividades de entidades y órganos  extraterritoriales	3101187708 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+EMPRESAS FINANCIERAS NO BANCARIAS	A-Agricultura, ganadería, caza y actividades de servicios conexas	Financiera Comeca, S.A. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+EMPRESAS FINANCIERAS NO BANCARIAS	B-Pesca y  acuacultura	Financiera Comeca, S.A. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+EMPRESAS FINANCIERAS NO BANCARIAS	C-Explotación de  minas y canteras	Financiera Comeca, S.A. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+EMPRESAS FINANCIERAS NO BANCARIAS	D-Industria Manufacturera	Financiera Comeca, S.A. 07/2008	114525.61	23474.41	240794.97	0.00	0.00	0.00	0.00	378794.99	
+EMPRESAS FINANCIERAS NO BANCARIAS	E-Electricidad, telecomunicaciones,  gas y agua	Financiera Comeca, S.A. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+EMPRESAS FINANCIERAS NO BANCARIAS	F-Construcción, compra  y reparación de inmuebles	Financiera Comeca, S.A. 07/2008	911104.97	18764.53	0.00	120141.88	0.00	0.00	0.00	1050011.38	
+EMPRESAS FINANCIERAS NO BANCARIAS	G-Comercio	Financiera Comeca, S.A. 07/2008	1077499.73	176094.48	51787.34	0.00	10307.66	0.00	0.00	1315689.21	
+EMPRESAS FINANCIERAS NO BANCARIAS	H-Hotel  y restaurante	Financiera Comeca, S.A. 07/2008	110291.81	9073.88	0.00	0.00	0.00	0.00	0.00	119365.69	
+EMPRESAS FINANCIERAS NO BANCARIAS	I-Transporte	Financiera Comeca, S.A. 07/2008	8900.35	8582.35	0.00	0.00	0.00	0.00	0.00	17482.71	
+EMPRESAS FINANCIERAS NO BANCARIAS	J-Actividad  financiera y bursátil	Financiera Comeca, S.A. 07/2008	0.00	12474.93	0.00	0.00	0.00	0.00	0.00	12474.93	
+EMPRESAS FINANCIERAS NO BANCARIAS	K-Actividades inmobiliarias, empresariales y de alquiler	Financiera Comeca, S.A. 07/2008	3236701.74	515083.12	57206.21	0.00	13332.70	0.00	0.00	3822323.77	
+EMPRESAS FINANCIERAS NO BANCARIAS	M-Enseñanza  (El deudor ofrece este servicio)	Financiera Comeca, S.A. 07/2008	54550.16	0.00	0.00	0.00	0.00	0.00	0.00	54550.16	
+EMPRESAS FINANCIERAS NO BANCARIAS	R-Servicios  (El deudor ofrece este servicio)	Financiera Comeca, S.A. 07/2008	901946.91	256727.96	97352.17	0.00	35477.07	0.00	0.00	1291504.11	
+EMPRESAS FINANCIERAS NO BANCARIAS	S-Consumo  (el deudor consume el bien o servicio)	Financiera Comeca, S.A. 07/2008	1928512.45	423303.13	107301.79	407804.18	138817.97	52040.02	8284.87	3066064.42	
+EMPRESAS FINANCIERAS NO BANCARIAS	X-Otras actividades del sector privado no financiero	Financiera Comeca, S.A. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+EMPRESAS FINANCIERAS NO BANCARIAS	Y-Administración pública	Financiera Comeca, S.A. 07/2008	809128.05	11106.80	0.00	249937.17	0.00	0.00	0.00	1070172.02	
+EMPRESAS FINANCIERAS NO BANCARIAS	Z-Actividades de entidades y órganos  extraterritoriales	Financiera Comeca, S.A. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+CASAS DE CAMBIO	A-Agricultura, ganadería, caza y actividades de servicios conexas	Casa de Cambio Tele Dólar Expreso S.A. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+CASAS DE CAMBIO	B-Pesca y  acuacultura	Casa de Cambio Tele Dólar Expreso S.A. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+CASAS DE CAMBIO	C-Explotación de  minas y canteras	Casa de Cambio Tele Dólar Expreso S.A. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+CASAS DE CAMBIO	D-Industria Manufacturera	Casa de Cambio Tele Dólar Expreso S.A. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+CASAS DE CAMBIO	E-Electricidad, telecomunicaciones,  gas y agua	Casa de Cambio Tele Dólar Expreso S.A. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+CASAS DE CAMBIO	F-Construcción, compra  y reparación de inmuebles	Casa de Cambio Tele Dólar Expreso S.A. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+CASAS DE CAMBIO	G-Comercio	Casa de Cambio Tele Dólar Expreso S.A. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+CASAS DE CAMBIO	H-Hotel  y restaurante	Casa de Cambio Tele Dólar Expreso S.A. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+CASAS DE CAMBIO	I-Transporte	Casa de Cambio Tele Dólar Expreso S.A. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+CASAS DE CAMBIO	J-Actividad  financiera y bursátil	Casa de Cambio Tele Dólar Expreso S.A. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+CASAS DE CAMBIO	K-Actividades inmobiliarias, empresariales y de alquiler	Casa de Cambio Tele Dólar Expreso S.A. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+CASAS DE CAMBIO	M-Enseñanza  (El deudor ofrece este servicio)	Casa de Cambio Tele Dólar Expreso S.A. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+CASAS DE CAMBIO	R-Servicios  (El deudor ofrece este servicio)	Casa de Cambio Tele Dólar Expreso S.A. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+CASAS DE CAMBIO	S-Consumo  (el deudor consume el bien o servicio)	Casa de Cambio Tele Dólar Expreso S.A. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+CASAS DE CAMBIO	X-Otras actividades del sector privado no financiero	Casa de Cambio Tele Dólar Expreso S.A. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+CASAS DE CAMBIO	Y-Administración pública	Casa de Cambio Tele Dólar Expreso S.A. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+CASAS DE CAMBIO	Z-Actividades de entidades y órganos  extraterritoriales	Casa de Cambio Tele Dólar Expreso S.A. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+BANCOS PRIVADOS Y COOPERATIVOS	A-Agricultura, ganadería, caza y actividades de servicios conexas	Banco Cathay de Costa Rica, S.A. 07/2008	11352.24	0.00	0.00	0.00	0.00	0.00	0.00	11352.24	
+BANCOS PRIVADOS Y COOPERATIVOS	B-Pesca y  acuacultura	Banco Cathay de Costa Rica, S.A. 07/2008	0.00	0.00	13366.60	0.00	0.00	0.00	0.00	13366.60	
+BANCOS PRIVADOS Y COOPERATIVOS	C-Explotación de  minas y canteras	Banco Cathay de Costa Rica, S.A. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+BANCOS PRIVADOS Y COOPERATIVOS	D-Industria Manufacturera	Banco Cathay de Costa Rica, S.A. 07/2008	156226.28	0.00	0.00	0.00	0.00	0.00	0.00	156226.28	
+BANCOS PRIVADOS Y COOPERATIVOS	E-Electricidad, telecomunicaciones,  gas y agua	Banco Cathay de Costa Rica, S.A. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+BANCOS PRIVADOS Y COOPERATIVOS	F-Construcción, compra  y reparación de inmuebles	Banco Cathay de Costa Rica, S.A. 07/2008	356721.09	78049.16	28863.96	0.00	0.00	19420.07	0.00	483054.27	
+BANCOS PRIVADOS Y COOPERATIVOS	G-Comercio	Banco Cathay de Costa Rica, S.A. 07/2008	1828095.53	224505.20	0.00	0.00	0.00	65890.33	4565.64	2123056.70	
+BANCOS PRIVADOS Y COOPERATIVOS	H-Hotel  y restaurante	Banco Cathay de Costa Rica, S.A. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+BANCOS PRIVADOS Y COOPERATIVOS	I-Transporte	Banco Cathay de Costa Rica, S.A. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+BANCOS PRIVADOS Y COOPERATIVOS	J-Actividad  financiera y bursátil	Banco Cathay de Costa Rica, S.A. 07/2008	817103.70	0.00	0.00	0.00	0.00	0.00	0.00	817103.70	
+BANCOS PRIVADOS Y COOPERATIVOS	K-Actividades inmobiliarias, empresariales y de alquiler	Banco Cathay de Costa Rica, S.A. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+BANCOS PRIVADOS Y COOPERATIVOS	M-Enseñanza  (El deudor ofrece este servicio)	Banco Cathay de Costa Rica, S.A. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+BANCOS PRIVADOS Y COOPERATIVOS	R-Servicios  (El deudor ofrece este servicio)	Banco Cathay de Costa Rica, S.A. 07/2008	2145070.80	125326.53	0.00	0.00	0.00	11064.24	21357.92	2302819.49	
+BANCOS PRIVADOS Y COOPERATIVOS	S-Consumo  (el deudor consume el bien o servicio)	Banco Cathay de Costa Rica, S.A. 07/2008	16524140.21	550231.23	1131026.21	33320.62	60920.78	36213.94	208678.63	18544531.63	
+BANCOS PRIVADOS Y COOPERATIVOS	X-Otras actividades del sector privado no financiero	Banco Cathay de Costa Rica, S.A. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+BANCOS PRIVADOS Y COOPERATIVOS	Y-Administración pública	Banco Cathay de Costa Rica, S.A. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+BANCOS PRIVADOS Y COOPERATIVOS	Z-Actividades de entidades y órganos  extraterritoriales	Banco Cathay de Costa Rica, S.A. 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+BANCOS PRIVADOS Y COOPERATIVOS	A-Agricultura, ganadería, caza y actividades de servicios conexas	BANCO GENERAL COSTA RICA SOCIEDAD ANONIMA 07/2008	504430.62	0.00	0.00	0.00	0.00	0.00	0.00	504430.62	
+BANCOS PRIVADOS Y COOPERATIVOS	B-Pesca y  acuacultura	BANCO GENERAL COSTA RICA SOCIEDAD ANONIMA 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+BANCOS PRIVADOS Y COOPERATIVOS	C-Explotación de  minas y canteras	BANCO GENERAL COSTA RICA SOCIEDAD ANONIMA 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+BANCOS PRIVADOS Y COOPERATIVOS	D-Industria Manufacturera	BANCO GENERAL COSTA RICA SOCIEDAD ANONIMA 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+BANCOS PRIVADOS Y COOPERATIVOS	E-Electricidad, telecomunicaciones,  gas y agua	BANCO GENERAL COSTA RICA SOCIEDAD ANONIMA 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+BANCOS PRIVADOS Y COOPERATIVOS	F-Construcción, compra  y reparación de inmuebles	BANCO GENERAL COSTA RICA SOCIEDAD ANONIMA 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+BANCOS PRIVADOS Y COOPERATIVOS	G-Comercio	BANCO GENERAL COSTA RICA SOCIEDAD ANONIMA 07/2008	2197365.97	0.00	0.00	0.00	0.00	0.00	0.00	2197365.97	
+BANCOS PRIVADOS Y COOPERATIVOS	H-Hotel  y restaurante	BANCO GENERAL COSTA RICA SOCIEDAD ANONIMA 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+BANCOS PRIVADOS Y COOPERATIVOS	I-Transporte	BANCO GENERAL COSTA RICA SOCIEDAD ANONIMA 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+BANCOS PRIVADOS Y COOPERATIVOS	J-Actividad  financiera y bursátil	BANCO GENERAL COSTA RICA SOCIEDAD ANONIMA 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+BANCOS PRIVADOS Y COOPERATIVOS	k-Actividades inmobiliarias, empresariales y de alquiler	BANCO GENERAL COSTA RICA SOCIEDAD ANONIMA 07/2008	0	0.00	0	0.00	0	0.00	0	0.00	
+BANCOS PRIVADOS Y COOPERATIVOS	K-Actividades inmobiliarias, empresariales y de alquiler	BANCO GENERAL COSTA RICA SOCIEDAD ANONIMA 07/2008	250181.83	0.00	0.00	0.00	0.00	0.00	0.00	250181.83	
+BANCOS PRIVADOS Y COOPERATIVOS	M-Enseñanza  (El deudor ofrece este servicio)	BANCO GENERAL COSTA RICA SOCIEDAD ANONIMA 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+BANCOS PRIVADOS Y COOPERATIVOS	R-Servicios  (El deudor ofrece este servicio)	BANCO GENERAL COSTA RICA SOCIEDAD ANONIMA 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+BANCOS PRIVADOS Y COOPERATIVOS	S-Consumo  (el deudor consume el bien o servicio)	BANCO GENERAL COSTA RICA SOCIEDAD ANONIMA 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+BANCOS PRIVADOS Y COOPERATIVOS	X-Otras actividades del sector privado no financiero	BANCO GENERAL COSTA RICA SOCIEDAD ANONIMA 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+BANCOS PRIVADOS Y COOPERATIVOS	Y-Administración pública	BANCO GENERAL COSTA RICA SOCIEDAD ANONIMA 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+BANCOS PRIVADOS Y COOPERATIVOS	Z-Actividades de entidades y órganos  extraterritoriales	BANCO GENERAL COSTA RICA SOCIEDAD ANONIMA 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+BANCOS COMERCIALES DEL ESTADO	A-Agricultura, ganadería, caza y actividades de servicios conexas	BCR - Banco de Costa Rica 07/2008	59770723.56	421096.95	80506.73	5047.93	17493.14	6139.91	4053.06	60305061.29	
+BANCOS COMERCIALES DEL ESTADO	B-Pesca y  acuacultura	BCR - Banco de Costa Rica 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+BANCOS COMERCIALES DEL ESTADO	C-Explotación de  minas y canteras	BCR - Banco de Costa Rica 07/2008	771635.02	0.00	0.00	0.00	0.00	0.00	0.00	771635.02	
+BANCOS COMERCIALES DEL ESTADO	D-Industria Manufacturera	BCR - Banco de Costa Rica 07/2008	136381950.51	843918.31	146787.40	69658.10	209714.63	37622.82	161042.53	137850694.30	
+BANCOS COMERCIALES DEL ESTADO	E-Electricidad, telecomunicaciones,  gas y agua	BCR - Banco de Costa Rica 07/2008	45286850.89	0.00	0.00	0.00	0.00	0.00	0.00	45286850.89	
+BANCOS COMERCIALES DEL ESTADO	F-Construcción, compra  y reparación de inmuebles	BCR - Banco de Costa Rica 07/2008	233605575.18	8886420.14	1894588.23	261033.69	516586.81	272008.07	1425968.05	246862180.17	
+BANCOS COMERCIALES DEL ESTADO	G-Comercio	BCR - Banco de Costa Rica 07/2008	1030602.85	49824.15	4345.71	0.00	0.00	1172.63	94887.72	1180833.05	
+BANCOS COMERCIALES DEL ESTADO	H-Hotel  y restaurante	BCR - Banco de Costa Rica 07/2008	13892771.79	554560.79	0.00	0.00	0.00	0.00	0.00	14447332.58	
+BANCOS COMERCIALES DEL ESTADO	I-Transporte	BCR - Banco de Costa Rica 07/2008	33680116.85	2566005.33	177836.12	48900.12	0.00	0.00	187654.82	36660513.23	
+BANCOS COMERCIALES DEL ESTADO	J-Actividad  financiera y bursátil	BCR - Banco de Costa Rica 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+BANCOS COMERCIALES DEL ESTADO	K-Actividades inmobiliarias, empresariales y de alquiler	BCR - Banco de Costa Rica 07/2008	2729298.13	0.00	0.00	0.00	0.00	0.00	2577.69	2731875.82	
+BANCOS COMERCIALES DEL ESTADO	M-Enseñanza  (El deudor ofrece este servicio)	BCR - Banco de Costa Rica 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+BANCOS COMERCIALES DEL ESTADO	R-Servicios  (El deudor ofrece este servicio)	BCR - Banco de Costa Rica 07/2008	376546698.12	4982623.71	417432.52	225901.25	2447332.91	75953.10	593940.41	385289882.02	
+BANCOS COMERCIALES DEL ESTADO	S-Consumo  (el deudor consume el bien o servicio)	BCR - Banco de Costa Rica 07/2008	129529569.63	10036146.96	1907976.05	482642.29	607863.67	415791.47	1918435.49	144898425.56	
+BANCOS COMERCIALES DEL ESTADO	X-Otras actividades del sector privado no financiero	BCR - Banco de Costa Rica 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+BANCOS COMERCIALES DEL ESTADO	Y-Administración pública	BCR - Banco de Costa Rica 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+BANCOS COMERCIALES DEL ESTADO	Z-Actividades de entidades y órganos  extraterritoriales	BCR - Banco de Costa Rica 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+BANCOS COMERCIALES DEL ESTADO	A-Agricultura, ganadería, caza y actividades de servicios conexas	BNCR - Banco Nacional de Costa Rica 07/2008	100412392.32	686726.26	447202.34	1288615.67	0.00	200031.45	3139282.71	106174250.74	
+BANCOS COMERCIALES DEL ESTADO	B-Pesca y  acuacultura	BNCR - Banco Nacional de Costa Rica 07/2008	516980.94	0.00	26452.85	0.00	0.00	0.00	21634.16	565067.94	
+BANCOS COMERCIALES DEL ESTADO	C-Explotación de  minas y canteras	BNCR - Banco Nacional de Costa Rica 07/2008	80818.01	0.00	0.00	0.00	0.00	0.00	0.00	80818.01	
+BANCOS COMERCIALES DEL ESTADO	D-Industria Manufacturera	BNCR - Banco Nacional de Costa Rica 07/2008	62138264.94	610132.24	208343.37	18818.07	0.00	0.00	709949.96	63685508.58	
+BANCOS COMERCIALES DEL ESTADO	E-Electricidad, telecomunicaciones,  gas y agua	BNCR - Banco Nacional de Costa Rica 07/2008	110164460.05	597595.19	11099.41	927435.00	0.00	0.00	37399.46	111737989.12	
+BANCOS COMERCIALES DEL ESTADO	F-Construcción, compra  y reparación de inmuebles	BNCR - Banco Nacional de Costa Rica 07/2008	533004564.74	10121530.21	3576604.19	740897.59	652883.07	51915.33	9016627.50	557165022.63	
+BANCOS COMERCIALES DEL ESTADO	G-Comercio	BNCR - Banco Nacional de Costa Rica 07/2008	281719077.82	1998382.97	2795296.85	320071.51	63666.95	3131.66	2241000.61	289140628.37	
+BANCOS COMERCIALES DEL ESTADO	H-Hotel  y restaurante	BNCR - Banco Nacional de Costa Rica 07/2008	240420.52	0.00	0.00	0.00	0.00	0.00	0.00	240420.52	
+BANCOS COMERCIALES DEL ESTADO	I-Transporte	BNCR - Banco Nacional de Costa Rica 07/2008	15277756.80	0.00	7657.57	0.00	0.00	0.00	0.00	15285414.37	
+BANCOS COMERCIALES DEL ESTADO	J-Actividad  financiera y bursátil	BNCR - Banco Nacional de Costa Rica 07/2008	59890445.64	0.00	0.00	0.00	0.00	0.00	0.00	59890445.64	
+BANCOS COMERCIALES DEL ESTADO	K-Actividades inmobiliarias, empresariales y de alquiler	BNCR - Banco Nacional de Costa Rica 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+BANCOS COMERCIALES DEL ESTADO	M-Enseñanza  (El deudor ofrece este servicio)	BNCR - Banco Nacional de Costa Rica 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+BANCOS COMERCIALES DEL ESTADO	R-Servicios  (El deudor ofrece este servicio)	BNCR - Banco Nacional de Costa Rica 07/2008	216435578.59	1364512.87	769587.89	78786.29	0.00	0.00	1863827.10	220512292.74	
+BANCOS COMERCIALES DEL ESTADO	S-Consumo  (el deudor consume el bien o servicio)	BNCR - Banco Nacional de Costa Rica 07/2008	137241392.50	8188284.15	2301430.75	881008.30	39242.81	2562.66	8193847.76	156847768.94	
+BANCOS COMERCIALES DEL ESTADO	X-Otras actividades del sector privado no financiero	BNCR - Banco Nacional de Costa Rica 07/2008	2127284.43	0.00	0.00	0.00	0.00	0.00	0.00	2127284.43	
+BANCOS COMERCIALES DEL ESTADO	Y-Administración pública	BNCR - Banco Nacional de Costa Rica 07/2008	114621164.43	699360.56	526297.23	1512.00	0.00	0.00	1456164.59	117304498.82	
+BANCOS COMERCIALES DEL ESTADO	Z-Actividades de entidades y órganos  extraterritoriales	BNCR - Banco Nacional de Costa Rica 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+BANCOS COMERCIALES DEL ESTADO	A-Agricultura, ganadería, caza y actividades de servicios conexas	BCAC - Banco Crédito Agrícola de Cartago 07/2008	2819090.67	23190.88	0.00	0.00	0.00	0.00	44591.93	2886873.49	
+BANCOS COMERCIALES DEL ESTADO	B-Pesca y  acuacultura	BCAC - Banco Crédito Agrícola de Cartago 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+BANCOS COMERCIALES DEL ESTADO	C-Explotación de  minas y canteras	BCAC - Banco Crédito Agrícola de Cartago 07/2008	28560.70	0.00	0.00	0.00	0.00	0.00	0.00	28560.70	
+BANCOS COMERCIALES DEL ESTADO	D-Industria Manufacturera	BCAC - Banco Crédito Agrícola de Cartago 07/2008	18719030.22	155960.51	6318.74	4239.91	0.00	0.00	38570.13	18924119.50	
+BANCOS COMERCIALES DEL ESTADO	E-Electricidad, telecomunicaciones,  gas y agua	BCAC - Banco Crédito Agrícola de Cartago 07/2008	1287820.43	0.00	0.00	0.00	0.00	0.00	0.00	1287820.43	
+BANCOS COMERCIALES DEL ESTADO	F-Construcción, compra  y reparación de inmuebles	BCAC - Banco Crédito Agrícola de Cartago 07/2008	41730604.91	1868859.72	266749.22	85900.28	0.00	0.00	431347.70	44383461.83	
+BANCOS COMERCIALES DEL ESTADO	G-Comercio	BCAC - Banco Crédito Agrícola de Cartago 07/2008	15387715.45	289625.68	2454.51	7453.74	0.00	0.00	123768.29	15811017.67	
+BANCOS COMERCIALES DEL ESTADO	H-Hotel  y restaurante	BCAC - Banco Crédito Agrícola de Cartago 07/2008	156007.66	0.00	0.00	0.00	0.00	0.00	0.00	156007.66	
+BANCOS COMERCIALES DEL ESTADO	I-Transporte	BCAC - Banco Crédito Agrícola de Cartago 07/2008	246361.01	1310.79	0.00	2949.61	0.00	0.00	0.00	250621.41	
+BANCOS COMERCIALES DEL ESTADO	J-Actividad  financiera y bursátil	BCAC - Banco Crédito Agrícola de Cartago 07/2008	6466981.61	0.00	0.00	0.00	0.00	0.00	0.00	6466981.61	
+BANCOS COMERCIALES DEL ESTADO	K-Actividades inmobiliarias, empresariales y de alquiler	BCAC - Banco Crédito Agrícola de Cartago 07/2008	1203236.95	0.00	0.00	0.00	0.00	0.00	0.00	1203236.95	
+BANCOS COMERCIALES DEL ESTADO	M-Enseñanza  (El deudor ofrece este servicio)	BCAC - Banco Crédito Agrícola de Cartago 07/2008	370121.97	0.00	0.00	0.00	0.00	0.00	0.00	370121.97	
+BANCOS COMERCIALES DEL ESTADO	R-Servicios  (El deudor ofrece este servicio)	BCAC - Banco Crédito Agrícola de Cartago 07/2008	11752891.70	130678.10	1212257.69	8.90	0.00	0.00	10622.64	13106459.03	
+BANCOS COMERCIALES DEL ESTADO	S-Consumo  (el deudor consume el bien o servicio)	BCAC - Banco Crédito Agrícola de Cartago 07/2008	30696338.29	1646068.34	297799.35	79447.22	51009.98	5373.69	661605.05	33437641.93	
+BANCOS COMERCIALES DEL ESTADO	X-Otras actividades del sector privado no financiero	BCAC - Banco Crédito Agrícola de Cartago 07/2008	3984521.74	3318.16	0.00	0.00	0.00	0.00	0.00	3987839.90	
+BANCOS COMERCIALES DEL ESTADO	Y-Administración pública	BCAC - Banco Crédito Agrícola de Cartago 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+BANCOS COMERCIALES DEL ESTADO	Z-Actividades de entidades y órganos  extraterritoriales	BCAC - Banco Crédito Agrícola de Cartago 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+BANCOS CREADOS POR LEYES ESPECIALES	A-Agricultura, ganadería, caza y actividades de servicios conexas	POPULAR - Banco Popular y de desarrollo Comunal 07/2008	28902921.98	3360664.57	325028.84	38042.36	65386.12	87549.84	629905.01	33409498.73	
+BANCOS CREADOS POR LEYES ESPECIALES	B-Pesca y  acuacultura	POPULAR - Banco Popular y de desarrollo Comunal 07/2008	852696.81	408993.69	37380.74	8784.15	6775.22	2283.52	23269.11	1340183.24	
+BANCOS CREADOS POR LEYES ESPECIALES	C-Explotación de  minas y canteras	POPULAR - Banco Popular y de desarrollo Comunal 07/2008	818503.21	9928.64	134743.45	0.00	0.00	0.00	0.00	963175.30	
+BANCOS CREADOS POR LEYES ESPECIALES	D-Industria Manufacturera	POPULAR - Banco Popular y de desarrollo Comunal 07/2008	6470057.67	791429.32	207785.30	97832.27	14067.33	3384.52	90845.08	7675401.48	
+BANCOS CREADOS POR LEYES ESPECIALES	E-Electricidad, telecomunicaciones,  gas y agua	POPULAR - Banco Popular y de desarrollo Comunal 07/2008	701448.55	78423.11	31.44	0.00	0.00	0.00	756.58	780659.67	
+BANCOS CREADOS POR LEYES ESPECIALES	F-Construcción, compra  y reparación de inmuebles	POPULAR - Banco Popular y de desarrollo Comunal 07/2008	239971558.23	64144602.71	4758528.07	476974.69	176966.76	58933.50	2190386.72	311777950.69	
+BANCOS CREADOS POR LEYES ESPECIALES	G-Comercio	POPULAR - Banco Popular y de desarrollo Comunal 07/2008	25985510.94	3605700.65	205207.63	15556.34	10779.08	3177.91	313867.46	30139800.01	
+BANCOS CREADOS POR LEYES ESPECIALES	H-Hotel  y restaurante	POPULAR - Banco Popular y de desarrollo Comunal 07/2008	886788.80	187897.80	24925.09	0.00	0.00	3911.67	1596.33	1105119.70	
+BANCOS CREADOS POR LEYES ESPECIALES	I-Transporte	POPULAR - Banco Popular y de desarrollo Comunal 07/2008	7451305.45	658538.10	220548.74	14741.69	3465.49	99.46	178347.97	8527046.90	
+BANCOS CREADOS POR LEYES ESPECIALES	J-Actividad  financiera y bursátil	POPULAR - Banco Popular y de desarrollo Comunal 07/2008	20970.62	2843.65	0.00	0.00	0.00	0.00	0.00	23814.27	
+BANCOS CREADOS POR LEYES ESPECIALES	K-Actividades inmobiliarias, empresariales y de alquiler	POPULAR - Banco Popular y de desarrollo Comunal 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+BANCOS CREADOS POR LEYES ESPECIALES	M-Enseñanza  (El deudor ofrece este servicio)	POPULAR - Banco Popular y de desarrollo Comunal 07/2008	2143185.46	736290.51	25944.34	8081.88	16101.16	573.73	12140.89	2942317.98	
+BANCOS CREADOS POR LEYES ESPECIALES	R-Servicios  (El deudor ofrece este servicio)	POPULAR - Banco Popular y de desarrollo Comunal 07/2008	20753952.05	4461718.85	392096.68	36245.16	40675.67	23095.25	324513.74	26032297.41	
+BANCOS CREADOS POR LEYES ESPECIALES	S-Consumo  (el deudor consume el bien o servicio)	POPULAR - Banco Popular y de desarrollo Comunal 07/2008	227556764.76	86814794.22	6410196.75	1738411.85	1222096.52	557598.52	6573513.75	330873376.39	
+BANCOS CREADOS POR LEYES ESPECIALES	X-Otras actividades del sector privado no financiero	POPULAR - Banco Popular y de desarrollo Comunal 07/2008	51534742.85	10357407.75	1428741.53	349427.88	459394.00	609277.07	3186083.72	67925074.79	
+BANCOS CREADOS POR LEYES ESPECIALES	Y-Administración pública	POPULAR - Banco Popular y de desarrollo Comunal 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	
+BANCOS CREADOS POR LEYES ESPECIALES	Z-Actividades de entidades y órganos  extraterritoriales	POPULAR - Banco Popular y de desarrollo Comunal 07/2008	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00	

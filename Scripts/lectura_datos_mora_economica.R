@@ -2,9 +2,8 @@ library(tidyverse)
 library(lubridate)
 library(stringr)
 
-
 # Script para descargar y limpiar datos de SUGEF --------------------------
-
+load("Datos/Diccionarios/dict_sector.RData")
 # Función para leer los archivos txt
 read_files <- function(file, path, colnames, coltypes) {
   readr::read_tsv(paste(path, file, sep = "/"), col_names = colnames,
@@ -27,7 +26,8 @@ datos <- datos %>%
     actividad = gsub("[A-Za-z]-", "", actividad),
     fecha = dmy(paste0("01/", str_extract(entidad_per, "\\d{2}/\\d{4}"))),
     entidad = gsub("\\s\\d{2}/\\d{4}|\\s\\-\\s.*", "", entidad_per)
-  ) %>% select(-entidad_per)
+  ) %>% left_join(dict_sector, by = "sector") %>% select(-entidad_per) %>% 
+  unique() # Algunos datos están duplicados
 
 glimpse(datos)
 summary(datos)
